@@ -56,7 +56,10 @@ this message. If you do not see the error message, then you should simply procee
 
 ## Step 7: Login to the Parrot VM
 
+The login should already say "Parrot User" (or puser)
+
 The Parrott VM's password is as follows:
+
 
 ```text
 P@ssw0rd!
