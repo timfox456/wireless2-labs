@@ -1,7 +1,14 @@
 # wireless2-labs
 
 
-This is the labs and other materials for Wireless 2
+This is the labs and other materials for Wireless Networking 2 Course.
+
+
+## Slides
+
+Here are the slides for the Course:
+
+* [Slides](./slides)
 
 
 ## Lab Setup
@@ -12,6 +19,10 @@ Please follow this guide for lab setup:
 
 
 ## Labs
+
+
+ * [PDF Lab Guide](./docs/wireless2-labs.pdf)
+
 
  * [Lab 0: Linux](lab00-linux.md)
  * [Lab 1: WLAN Components](lab01-wlan-components.md)
@@ -68,5 +79,5 @@ Please follow this guide for lab setup:
 
  * [Pentest Setup](./pentest-setup.md)
  * [Networking Notes](./networking-notes.md)
- * [NIST SP 800-97](docs/NIST SP 800-97 Building RSN.pdf)
+ * [NIST SP 800-97](./docs/NIST SP 800-97 Building RSN.pdf)
 
