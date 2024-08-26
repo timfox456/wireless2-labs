@@ -63,3 +63,9 @@ Please follow this guide for lab setup:
 ## Final Exercise
 
  * [Final Exercise](final-exercise.md)
+
+## References
+
+ * [Pentest Setup](./pentest-setup.md)
+ * [NIST SP 800-97](docs/NIST SP 800-97 Building RSN.pdf)
+
