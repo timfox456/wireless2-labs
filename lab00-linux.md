@@ -131,6 +131,14 @@ As with the previous examples, the source and destination can be specified
 relative or absolute. The move command can be used to rename files when the
 destination does not exist in the file system.
 
+
+Create a file `file1` in `~/Captures` directory:
+
+```console
+cd ~/Captures
+touch file1
+```
+
 Make a copy of `file1` inside the `wardrives` directory:
 
 ```console
