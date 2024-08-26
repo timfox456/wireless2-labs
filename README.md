@@ -75,9 +75,16 @@ Please follow this guide for lab setup:
 
  * [Final Exercise](final-exercise.md)
 
+## Traces
+
+Most of the traces are conaianed [here](./wireless_survey/). However, a couple of the very largset traces are not included due to very large size./
+
+* [Traces](./wireless_survey/)
+
 ## References
 
  * [Pentest Setup](./pentest-setup.md)
+ * [Wireless Versions](./wireless-versions.md)
  * [Networking Notes](./networking-notes.md)
  * [NIST SP 800-97](./docs/NIST SP 800-97 Building RSN.pdf)
 
