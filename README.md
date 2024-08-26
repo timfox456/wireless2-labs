@@ -86,5 +86,5 @@ Most of the traces are conaianed [here](./wireless_survey/). However, a couple o
  * [Pentest Setup](./pentest-setup.md)
  * [Wireless Versions](./wireless-versions.md)
  * [Networking Notes](./networking-notes.md)
- * [NIST SP 800-97](./docs/NIST SP 800-97 Building RSN.pdf)
-
+ * [NIST Document](docs/NIST-SP-800-97-Building-RSN.pdf)
+ * [Wirelss Supplemental Handlout](docs/wireless-supplemental.pdf)
