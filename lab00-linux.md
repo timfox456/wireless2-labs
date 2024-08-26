@@ -339,7 +339,12 @@ with “File.” Immediately below the main menu items is the “Main Toolbar”
 icons. Below the Main Toolbar is the “Display Filter.” In this filter space you
 sort through and selectively display different details of interest inside
 capture files. Some example display filters are at the very end of this
-exercise handout. The first pane below the display filter area is the “Packet
+exercise handout. 
+
+[Example Display Filters](./wireshark-filters.md)
+
+
+The first pane below the display filter area is the “Packet
 List” window. Below that is the “Packet Details,” and below that is the “Packet
 Bytes” window. Selecting a packet in the packet list pane will change what is
 displayed in the panes below. Sections of a packet can be expanded and
