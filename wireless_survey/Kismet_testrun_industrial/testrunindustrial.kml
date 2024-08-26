@@ -1,0 +1,5041 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>netxml2kml</name>
+<open>1</open>
+<Folder>
+<name>WPA: 212 APs</name>
+<Style id="WPA"><IconStyle><scale>0.5</scale>
+<Icon>")
+<href>http://files.salecker.org/netxml2kml/images/WPA.gif</href>
+</Icon></IconStyle></Style>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>str241xipv</name>
+<Point><coordinates>-82.125009,33.540963</coordinates></Point>
+<description><![CDATA[
+SSID: str241xipv<br />
+MAC: 5C:0E:8B:A2:01:F0<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:28 2018<br />
+GPS: 33.540963,-82.125009]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125013,33.540842</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 5C:0E:8B:A2:01:F3<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540842,-82.125013]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>WiFi Hotspot 8922</name>
+<Point><coordinates>-82.124993,33.540718</coordinates></Point>
+<description><![CDATA[
+SSID: WiFi Hotspot 8922<br />
+MAC: C4:49:BB:23:9A:DE<br />
+Manuf: MitsumiE<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:40 2018<br />
+GPS: 33.540718,-82.124993]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.125746,33.545911</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: C0:7C:D1:4E:2E:0B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:20 2018<br />
+GPS: 33.545911,-82.125746]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-7865-2.4</name>
+<Point><coordinates>-82.120994,33.552791</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-7865-2.4<br />
+MAC: 60:02:92:9E:A9:C0<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:25 2018<br />
+GPS: 33.552791,-82.120994]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.121035,33.552815</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 60:02:92:9E:A9:C3<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:24 2018<br />
+GPS: 33.552815,-82.121035]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-AAC3-2.4</name>
+<Point><coordinates>-82.122779,33.548951</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-AAC3-2.4<br />
+MAC: 10:05:01:69:E4:78<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:04 2018<br />
+GPS: 33.548951,-82.122779]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Huggins Firm Guest Network</name>
+<Point><coordinates>-82.125329,33.544328</coordinates></Point>
+<description><![CDATA[
+SSID: Huggins Firm Guest Network<br />
+MAC: F0:D1:A9:12:BC:06<br />
+Manuf: Apple<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:44 2018<br />
+GPS: 33.544328,-82.125329]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-acm</name>
+<Point><coordinates>-82.123081,33.550179</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-acm<br />
+MAC: D8:C7:C8:67:C8:F2<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:34 2018<br />
+GPS: 33.550179,-82.123081]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-clinical</name>
+<Point><coordinates>-82.1231,33.550134</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-clinical<br />
+MAC: D8:C7:C8:67:C8:F3<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:34 2018<br />
+GPS: 33.550134,-82.1231]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-nickel</name>
+<Point><coordinates>-82.123164,33.550045</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-nickel<br />
+MAC: D8:C7:C8:67:C8:F0<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:38 2018<br />
+GPS: 33.550045,-82.123164]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.121294,33.552718</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: D8:97:BA:7F:B6:AB<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:07 2018<br />
+GPS: 33.552718,-82.121294]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Anytime2.4Ghz</name>
+<Point><coordinates>-82.121253,33.552802</coordinates></Point>
+<description><![CDATA[
+SSID: Anytime2.4Ghz<br />
+MAC: D8:97:BA:7F:B6:A8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:07 2018<br />
+GPS: 33.552802,-82.121253]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.122797,33.548952</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 10:05:01:69:E4:7B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:04 2018<br />
+GPS: 33.548952,-82.122797]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>U.S. Battery Georgia</name>
+<Point><coordinates>-82.122601,33.547698</coordinates></Point>
+<description><![CDATA[
+SSID: U.S. Battery Georgia<br />
+MAC: 94:F6:65:09:6A:E8<br />
+Manuf: RuckusWi<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:54 2018<br />
+GPS: 33.547698,-82.122601]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ATT8gXP4qN</name>
+<Point><coordinates>-82.123408,33.550038</coordinates></Point>
+<description><![CDATA[
+SSID: ATT8gXP4qN<br />
+MAC: 14:ED:BB:66:F9:7A<br />
+Manuf: 2wire<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:28 2018<br />
+GPS: 33.550038,-82.123408]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Ashmore Guest</name>
+<Point><coordinates>-82.120467,33.552241</coordinates></Point>
+<description><![CDATA[
+SSID: Ashmore Guest<br />
+MAC: 82:2A:A8:51:9E:6C<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:40 2018<br />
+GPS: 33.552241,-82.120467]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>BEDAZZLED-2.4</name>
+<Point><coordinates>-82.125774,33.545904</coordinates></Point>
+<description><![CDATA[
+SSID: BEDAZZLED-2.4<br />
+MAC: C0:7C:D1:4E:2E:08<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:20 2018<br />
+GPS: 33.545904,-82.125774]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>RW Allen Construction</name>
+<Point><coordinates>-82.125236,33.543308</coordinates></Point>
+<description><![CDATA[
+SSID: RW Allen Construction<br />
+MAC: C0:C5:22:E0:6F:98<br />
+Manuf: ArrisGro<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:37 2018<br />
+GPS: 33.543308,-82.125236]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Caywood</name>
+<Point><coordinates>-82.122591,33.548521</coordinates></Point>
+<description><![CDATA[
+SSID: Caywood<br />
+MAC: 20:0C:C8:D4:50:74<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:51 2018<br />
+GPS: 33.548521,-82.122591]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.122572,33.548428</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: EE:5D:DF:93:93:68<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:26:54 2018<br />
+GPS: 33.548428,-82.122572]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>screenly</name>
+<Point><coordinates>-82.122704,33.547218</coordinates></Point>
+<description><![CDATA[
+SSID: screenly<br />
+MAC: 94:F6:65:88:F7:A8<br />
+Manuf: RuckusWi<br />
+Type: infrastructure<br />
+Channel: 0<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:18 2018<br />
+GPS: 33.547218,-82.122704]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>HOME-E725-2.4</name>
+<Point><coordinates>-82.120026,33.551937</coordinates></Point>
+<description><![CDATA[
+SSID: HOME-E725-2.4<br />
+MAC: 70:54:D2:05:16:70<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:22 2018<br />
+GPS: 33.551937,-82.120026]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120026,33.551937</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 70:54:D2:05:16:71<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:22 2018<br />
+GPS: 33.551937,-82.120026]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>EvansSmile</name>
+<Point><coordinates>-82.124982,33.541031</coordinates></Point>
+<description><![CDATA[
+SSID: EvansSmile<br />
+MAC: A0:04:60:32:F4:B5<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:38 2018<br />
+GPS: 33.541031,-82.124982]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125433,33.544192</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 68:86:A7:29:4F:61<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:42 2018<br />
+GPS: 33.544192,-82.125433]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>NEXAIRGUEST</name>
+<Point><coordinates>-82.124999,33.541022</coordinates></Point>
+<description><![CDATA[
+SSID: NEXAIRGUEST<br />
+MAC: 8A:15:04:B7:8D:10<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:33 2018<br />
+GPS: 33.541022,-82.124999]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>NEXAIR-AC</name>
+<Point><coordinates>-82.124996,33.541038</coordinates></Point>
+<description><![CDATA[
+SSID: NEXAIR-AC<br />
+MAC: 8A:15:04:B7:8D:12<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:26 2018<br />
+GPS: 33.541038,-82.124996]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CMA Augusta</name>
+<Point><coordinates>-82.120744,33.553275</coordinates></Point>
+<description><![CDATA[
+SSID: CMA Augusta<br />
+MAC: 02:90:7F:E0:6B:83<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:40 2018<br />
+GPS: 33.553275,-82.120744]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>DIRECT-83-HP M477 LaserJet</name>
+<Point><coordinates>-82.125533,33.546878</coordinates></Point>
+<description><![CDATA[
+SSID: DIRECT-83-HP M477 LaserJet<br />
+MAC: AA:A7:95:47:6C:83<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:08 2018<br />
+GPS: 33.546878,-82.125533]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124882,33.541424</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 5C:0E:8B:5A:FD:B3<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:45 2018<br />
+GPS: 33.541424,-82.124882]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>str241xipv</name>
+<Point><coordinates>-82.124613,33.540849</coordinates></Point>
+<description><![CDATA[
+SSID: str241xipv<br />
+MAC: 5C:0E:8B:5A:FD:B0<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:45 2018<br />
+GPS: 33.540849,-82.124613]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Ashmore Concrete</name>
+<Point><coordinates>-82.12051,33.552288</coordinates></Point>
+<description><![CDATA[
+SSID: Ashmore Concrete<br />
+MAC: 80:2A:A8:51:9E:6C<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:36 2018<br />
+GPS: 33.552288,-82.12051]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>NETGEAR95</name>
+<Point><coordinates>-82.124988,33.541056</coordinates></Point>
+<description><![CDATA[
+SSID: NETGEAR95<br />
+MAC: A0:04:60:87:40:E6<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:38 2018<br />
+GPS: 33.541056,-82.124988]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.12455,33.540455</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:1E:BE:A8:78:71<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.540455,-82.12455]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124275,33.540409</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:1E:BE:A8:78:73<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:45 2018<br />
+GPS: 33.540409,-82.124275]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.121296,33.552777</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 2C:D0:2D:8A:84:78<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:33 2018<br />
+GPS: 33.552777,-82.121296]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120603,33.553485</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 2C:D0:2D:8A:84:77<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:33 2018<br />
+GPS: 33.553485,-82.120603]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Edison</name>
+<Point><coordinates>-82.121749,33.552329</coordinates></Point>
+<description><![CDATA[
+SSID: Edison<br />
+MAC: 2C:D0:2D:8A:84:72<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:33 2018<br />
+GPS: 33.552329,-82.121749]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>HOME-1B62</name>
+<Point><coordinates>-82.120422,33.552241</coordinates></Point>
+<description><![CDATA[
+SSID: HOME-1B62<br />
+MAC: 58:23:8C:66:1B:62<br />
+Manuf: Technico<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:34 2018<br />
+GPS: 33.552241,-82.120422]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Simon</name>
+<Point><coordinates>-82.121708,33.552344</coordinates></Point>
+<description><![CDATA[
+SSID: Simon<br />
+MAC: 2C:D0:2D:8A:84:71<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:33 2018<br />
+GPS: 33.552344,-82.121708]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Greene Wifi 2.4</name>
+<Point><coordinates>-82.123073,33.550226</coordinates></Point>
+<description><![CDATA[
+SSID: Greene Wifi 2.4<br />
+MAC: 78:F2:9E:D6:AF:58<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.550226,-82.123073]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.124986,33.541031</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 60:02:92:E3:5F:FB<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:34 2018<br />
+GPS: 33.541031,-82.124986]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.122791,33.548915</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 06:18:0A:7A:43:E6<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:10 2018<br />
+GPS: 33.548915,-82.122791]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Queen91-2.4</name>
+<Point><coordinates>-82.120064,33.551991</coordinates></Point>
+<description><![CDATA[
+SSID: Queen91-2.4<br />
+MAC: 8C:0F:6F:1E:82:40<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:23 2018<br />
+GPS: 33.551991,-82.120064]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120079,33.552002</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 8C:0F:6F:1E:82:43<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:24 2018<br />
+GPS: 33.552002,-82.120079]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120084,33.552006</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 8C:0F:6F:1E:82:45<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:24 2018<br />
+GPS: 33.552006,-82.120084]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>DigitalAlly</name>
+<Point><coordinates>-82.125389,33.543799</coordinates></Point>
+<description><![CDATA[
+SSID: DigitalAlly<br />
+MAC: 06:18:D6:47:77:9A<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:41 2018<br />
+GPS: 33.543799,-82.125389]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.125519,33.54474</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 00:0D:67:84:8E:CD<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:46 2018<br />
+GPS: 33.54474,-82.125519]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>RancoWifi</name>
+<Point><coordinates>-82.122787,33.548907</coordinates></Point>
+<description><![CDATA[
+SSID: RancoWifi<br />
+MAC: 80:2A:A8:87:B6:45<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:07 2018<br />
+GPS: 33.548907,-82.122787]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ACC_Private</name>
+<Point><coordinates>-82.12059,33.553448</coordinates></Point>
+<description><![CDATA[
+SSID: ACC_Private<br />
+MAC: C0:EA:E4:62:ED:05<br />
+Manuf: Sonicwal<br />
+Type: infrastructure<br />
+Channel: 2<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:10 2018<br />
+GPS: 33.553448,-82.12059]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.124915,33.54092</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 00:0D:67:84:20:69<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.54092,-82.124915]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-EEA2-2.4</name>
+<Point><coordinates>-82.122701,33.548633</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-EEA2-2.4<br />
+MAC: C0:7C:D1:47:BB:A8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:01 2018<br />
+GPS: 33.548633,-82.122701]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120137,33.552021</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:18:0A:6F:97:16<br />
+Manuf: CiscoMer<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:26 2018<br />
+GPS: 33.552021,-82.120137]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-B156-2.4</name>
+<Point><coordinates>-82.124977,33.541016</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-B156-2.4<br />
+MAC: 60:02:92:E3:5F:F8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:56 2018<br />
+GPS: 33.541016,-82.124977]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.12309,33.550236</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 78:F2:9E:D6:AF:5B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.550236,-82.12309]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.12312,33.550248</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 78:F2:9E:D6:AF:5D<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.550248,-82.12312]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.123093,33.550238</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 78:F2:9E:D6:AF:5E<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.550238,-82.123093]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>SFMMA</name>
+<Point><coordinates>-82.124892,33.540679</coordinates></Point>
+<description><![CDATA[
+SSID: SFMMA<br />
+MAC: 20:25:64:AA:A4:B8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.540679,-82.124892]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>the_island</name>
+<Point><coordinates>-82.120485,33.55354</coordinates></Point>
+<description><![CDATA[
+SSID: the_island<br />
+MAC: C0:56:27:80:9B:F2<br />
+Manuf: BelkinIn<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:34 2018<br />
+GPS: 33.55354,-82.120485]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125302,33.543684</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: B8:BE:BF:3B:7D:41<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:41 2018<br />
+GPS: 33.543684,-82.125302]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.12397,33.549029</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: EC:E1:A9:30:1B:21<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:52 2018<br />
+GPS: 33.549029,-82.12397]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-clinical</name>
+<Point><coordinates>-82.123565,33.549757</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-clinical<br />
+MAC: D8:C7:C8:67:BB:43<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:35 2018<br />
+GPS: 33.549757,-82.123565]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-acm</name>
+<Point><coordinates>-82.123644,33.54963</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-acm<br />
+MAC: D8:C7:C8:67:BB:42<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:39 2018<br />
+GPS: 33.54963,-82.123644]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-nickel</name>
+<Point><coordinates>-82.123792,33.549641</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-nickel<br />
+MAC: D8:C7:C8:67:BB:40<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:39 2018<br />
+GPS: 33.549641,-82.123792]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125175,33.542923</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: A2:2A:A8:8A:B5:0D<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:39 2018<br />
+GPS: 33.542923,-82.125175]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120258,33.55213</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 06:18:0A:6F:97:16<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:31 2018<br />
+GPS: 33.55213,-82.120258]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ABBevWH</name>
+<Point><coordinates>-82.125748,33.546104</coordinates></Point>
+<description><![CDATA[
+SSID: ABBevWH<br />
+MAC: 84:24:8D:23:81:80<br />
+Manuf: ZebraTec<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:08 2018<br />
+GPS: 33.546104,-82.125748]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Testi Palace Extension</name>
+<Point><coordinates>-82.120134,33.551969</coordinates></Point>
+<description><![CDATA[
+SSID: Testi Palace Extension<br />
+MAC: EC:1A:59:FE:AC:C7<br />
+Manuf: BelkinIn<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:19 2018<br />
+GPS: 33.551969,-82.120134]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>FBI Survalance</name>
+<Point><coordinates>-82.121961,33.552164</coordinates></Point>
+<description><![CDATA[
+SSID: FBI Survalance<br />
+MAC: F0:AB:54:98:4E:9E<br />
+Manuf: MitsumiE<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:13 2018<br />
+GPS: 33.552164,-82.121961]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ARRIS-85D6</name>
+<Point><coordinates>-82.120224,33.55209</coordinates></Point>
+<description><![CDATA[
+SSID: ARRIS-85D6<br />
+MAC: 38:70:0C:53:85:D4<br />
+Manuf: ArrisGro<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:09 2018<br />
+GPS: 33.55209,-82.120224]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124794,33.540547</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0D:67:84:06:94<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:43 2018<br />
+GPS: 33.540547,-82.124794]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-4050-2.4</name>
+<Point><coordinates>-82.122728,33.550555</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-4050-2.4<br />
+MAC: 60:02:92:CD:A6:28<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:27 2018<br />
+GPS: 33.550555,-82.122728]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.122814,33.550536</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 60:02:92:CD:A6:2B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:27 2018<br />
+GPS: 33.550536,-82.122814]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>NEXAIR-AC</name>
+<Point><coordinates>-82.124961,33.540968</coordinates></Point>
+<description><![CDATA[
+SSID: NEXAIR-AC<br />
+MAC: 06:8D:DB:68:BD:CA<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.540968,-82.124961]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>DIRECT-aa-HP M402 LaserJet</name>
+<Point><coordinates>-82.124954,33.541462</coordinates></Point>
+<description><![CDATA[
+SSID: DIRECT-aa-HP M402 LaserJet<br />
+MAC: 42:B8:9A:C0:1C:AA<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:52 2018<br />
+GPS: 33.541462,-82.124954]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>OnthePrairie8195</name>
+<Point><coordinates>-82.12035,33.551976</coordinates></Point>
+<description><![CDATA[
+SSID: OnthePrairie8195<br />
+MAC: 8C:7F:3B:6C:45:B0<br />
+Manuf: ArrisGro<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:07 2018<br />
+GPS: 33.551976,-82.12035]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>French Fries Wi-Fi Network</name>
+<Point><coordinates>-82.122534,33.548346</coordinates></Point>
+<description><![CDATA[
+SSID: French Fries Wi-Fi Network<br />
+MAC: 6C:70:9F:DE:7F:16<br />
+Manuf: Apple<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:54 2018<br />
+GPS: 33.548346,-82.122534]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>PRESSWR</name>
+<Point><coordinates>-82.120338,33.552125</coordinates></Point>
+<description><![CDATA[
+SSID: PRESSWR<br />
+MAC: 2C:30:33:CD:4F:47<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:54 2018<br />
+GPS: 33.552125,-82.120338]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CT-AP</name>
+<Point><coordinates>-82.125151,33.547997</coordinates></Point>
+<description><![CDATA[
+SSID: CT-AP<br />
+MAC: 06:18:0A:6F:97:D8<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:55 2018<br />
+GPS: 33.547997,-82.125151]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-4112-2.4</name>
+<Point><coordinates>-82.124799,33.540548</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-4112-2.4<br />
+MAC: 00:71:C2:A5:66:78<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.540548,-82.124799]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Poblanos_Guest</name>
+<Point><coordinates>-82.124882,33.540546</coordinates></Point>
+<description><![CDATA[
+SSID: Poblanos_Guest<br />
+MAC: 2A:C6:8E:A6:7C:49<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:40 2018<br />
+GPS: 33.540546,-82.124882]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-C95A-2.4</name>
+<Point><coordinates>-82.125324,33.543856</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-C95A-2.4<br />
+MAC: 8C:0F:6F:84:53:98<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.543856,-82.125324]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>PTI Admin</name>
+<Point><coordinates>-82.124823,33.540801</coordinates></Point>
+<description><![CDATA[
+SSID: PTI Admin<br />
+MAC: F0:9F:C2:3A:E5:03<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540801,-82.124823]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CT-AP</name>
+<Point><coordinates>-82.125199,33.547955</coordinates></Point>
+<description><![CDATA[
+SSID: CT-AP<br />
+MAC: 06:18:0A:6F:96:08<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:53 2018<br />
+GPS: 33.547955,-82.125199]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ThisJawn</name>
+<Point><coordinates>-82.12258,33.548445</coordinates></Point>
+<description><![CDATA[
+SSID: ThisJawn<br />
+MAC: D4:5D:DF:93:93:68<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:48 2018<br />
+GPS: 33.548445,-82.12258]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125068,33.541916</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0D:67:84:AA:F4<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.541916,-82.125068]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-68BC</name>
+<Point><coordinates>-82.124099,33.548683</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-68BC<br />
+MAC: 84:00:2D:56:C1:28<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.548683,-82.124099]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.12294,33.550129</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 1A:A0:97:68:62:C0<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:50 2018<br />
+GPS: 33.550129,-82.12294]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>EUC_EXT</name>
+<Point><coordinates>-82.125023,33.540607</coordinates></Point>
+<description><![CDATA[
+SSID: EUC_EXT<br />
+MAC: A4:2B:8C:1E:E8:7E<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:35 2018<br />
+GPS: 33.540607,-82.125023]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.124192,33.548596</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 84:00:2D:56:C1:2B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:44 2018<br />
+GPS: 33.548596,-82.124192]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ATT575S5A8</name>
+<Point><coordinates>-82.123415,33.549885</coordinates></Point>
+<description><![CDATA[
+SSID: ATT575S5A8<br />
+MAC: A4:7A:A4:23:A0:A0<br />
+Manuf: ArrisGro<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:29:40 2018<br />
+GPS: 33.549885,-82.123415]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>SEDA Residential</name>
+<Point><coordinates>-82.124764,33.547944</coordinates></Point>
+<description><![CDATA[
+SSID: SEDA Residential<br />
+MAC: AC:86:74:77:16:82<br />
+Manuf: OpenMesh<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:25 2018<br />
+GPS: 33.547944,-82.124764]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.124991,33.540848</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 00:0D:67:84:1F:F1<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540848,-82.124991]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.125329,33.543858</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 8C:0F:6F:84:53:9B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.543858,-82.125329]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124923,33.540883</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0D:67:84:1F:F8<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:45 2018<br />
+GPS: 33.540883,-82.124923]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124901,33.54052</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0D:67:84:4B:B8<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.54052,-82.124901]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ATGWireless</name>
+<Point><coordinates>-82.121108,33.552567</coordinates></Point>
+<description><![CDATA[
+SSID: ATGWireless<br />
+MAC: 80:2A:A8:1A:E1:37<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:10 2018<br />
+GPS: 33.552567,-82.121108]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>wm_private</name>
+<Point><coordinates>-82.124976,33.541075</coordinates></Point>
+<description><![CDATA[
+SSID: wm_private<br />
+MAC: 44:D9:E7:FD:E2:36<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:08 2018<br />
+GPS: 33.541075,-82.124976]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Evans Dermatology Secure</name>
+<Point><coordinates>-82.125504,33.544682</coordinates></Point>
+<description><![CDATA[
+SSID: Evans Dermatology Secure<br />
+MAC: 90:A7:C1:03:19:DE<br />
+Manuf: PakedgeD<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.544682,-82.125504]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-69D7-2.4</name>
+<Point><coordinates>-82.124875,33.540646</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-69D7-2.4<br />
+MAC: 8C:0F:6F:96:AD:C8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.540646,-82.124875]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>WiFi Hotspot 8746</name>
+<Point><coordinates>-82.125599,33.545135</coordinates></Point>
+<description><![CDATA[
+SSID: WiFi Hotspot 8746<br />
+MAC: F0:AB:54:9E:A8:D9<br />
+Manuf: MitsumiE<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.545135,-82.125599]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>DIRECT-93-HP OfficeJet Pro 8710</name>
+<Point><coordinates>-82.125053,33.540661</coordinates></Point>
+<description><![CDATA[
+SSID: DIRECT-93-HP OfficeJet Pro 8710<br />
+MAC: 98:E7:F4:4A:F7:96<br />
+Manuf: HewlettP<br />
+Type: infrastructure<br />
+Channel: 0<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:34 2018<br />
+GPS: 33.540661,-82.125053]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.1241,33.540379</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: C0:7B:BC:23:48:81<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540379,-82.1241]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.1241,33.540379</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: C0:7B:BC:23:48:83<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540379,-82.1241]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ERS_GUEST</name>
+<Point><coordinates>-82.120567,33.552259</coordinates></Point>
+<description><![CDATA[
+SSID: ERS_GUEST<br />
+MAC: 0A:8D:DB:D9:2C:CF<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:05 2018<br />
+GPS: 33.552259,-82.120567]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.125088,33.541959</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 00:0D:67:84:AA:ED<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.541959,-82.125088]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>HB-Guest</name>
+<Point><coordinates>-82.124997,33.540745</coordinates></Point>
+<description><![CDATA[
+SSID: HB-Guest<br />
+MAC: 06:18:D6:C2:3A:88<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540745,-82.124997]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.120779,33.55232</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 84:00:2D:5D:56:9B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:05 2018<br />
+GPS: 33.55232,-82.120779]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.12492,33.540909</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 8C:0F:6F:C7:09:4B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:40 2018<br />
+GPS: 33.540909,-82.12492]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ATGWireless</name>
+<Point><coordinates>-82.120905,33.552426</coordinates></Point>
+<description><![CDATA[
+SSID: ATGWireless<br />
+MAC: 80:2A:A8:1A:E0:D4<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:10 2018<br />
+GPS: 33.552426,-82.120905]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Ameriprise-2.4</name>
+<Point><coordinates>-82.124966,33.541115</coordinates></Point>
+<description><![CDATA[
+SSID: Ameriprise-2.4<br />
+MAC: 8C:0F:6F:C7:09:48<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:38 2018<br />
+GPS: 33.541115,-82.124966]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>First Choice</name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: First Choice<br />
+MAC: C0:C1:C0:64:21:8A<br />
+Manuf: Cisco-Li<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:09 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-D558-2.4</name>
+<Point><coordinates>-82.122726,33.548185</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-D558-2.4<br />
+MAC: 20:25:64:AA:A9:80<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:36 2018<br />
+GPS: 33.548185,-82.122726]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.12272,33.548396</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 20:25:64:AA:A9:83<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:02 2018<br />
+GPS: 33.548396,-82.12272]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124983,33.540816</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 5C:0E:8B:A2:03:23<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540816,-82.124983]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>str241xipv</name>
+<Point><coordinates>-82.124994,33.540807</coordinates></Point>
+<description><![CDATA[
+SSID: str241xipv<br />
+MAC: 5C:0E:8B:A2:03:20<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540807,-82.124994]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Huggins Firm </name>
+<Point><coordinates>-82.125324,33.543832</coordinates></Point>
+<description><![CDATA[
+SSID: Huggins Firm <br />
+MAC: 88:1F:A1:43:72:E8<br />
+Manuf: Apple<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:38 2018<br />
+GPS: 33.543832,-82.125324]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Golds Gym</name>
+<Point><coordinates>-82.124979,33.540807</coordinates></Point>
+<description><![CDATA[
+SSID: Golds Gym<br />
+MAC: 80:2A:A8:C7:4F:3B<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:40 2018<br />
+GPS: 33.540807,-82.124979]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>screenly</name>
+<Point><coordinates>-82.122625,33.547526</coordinates></Point>
+<description><![CDATA[
+SSID: screenly<br />
+MAC: 94:F6:65:89:6A:E8<br />
+Manuf: RuckusWi<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:54 2018<br />
+GPS: 33.547526,-82.122625]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Home44062.4</name>
+<Point><coordinates>-82.120529,33.552299</coordinates></Point>
+<description><![CDATA[
+SSID: Home44062.4<br />
+MAC: 78:F2:9E:31:21:68<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:36 2018<br />
+GPS: 33.552299,-82.120529]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ACTI UniFi</name>
+<Point><coordinates>-82.124991,33.540617</coordinates></Point>
+<description><![CDATA[
+SSID: ACTI UniFi<br />
+MAC: 06:27:22:E9:45:17<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540617,-82.124991]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>AWJO-2.4</name>
+<Point><coordinates>-82.12513,33.542671</coordinates></Point>
+<description><![CDATA[
+SSID: AWJO-2.4<br />
+MAC: 74:85:2A:4F:31:D8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:41 2018<br />
+GPS: 33.542671,-82.12513]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>WASHINGTON</name>
+<Point><coordinates>-82.124995,33.540788</coordinates></Point>
+<description><![CDATA[
+SSID: WASHINGTON<br />
+MAC: 04:18:D6:C2:3A:88<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540788,-82.124995]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ERSCORPWIRELESS</name>
+<Point><coordinates>-82.12061,33.552229</coordinates></Point>
+<description><![CDATA[
+SSID: ERSCORPWIRELESS<br />
+MAC: 0C:8D:DB:D9:2C:CF<br />
+Manuf: CiscoMer<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:08 2018<br />
+GPS: 33.552229,-82.12061]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Evans-Dermatology-2.4</name>
+<Point><coordinates>-82.125607,33.545509</coordinates></Point>
+<description><![CDATA[
+SSID: Evans-Dermatology-2.4<br />
+MAC: 8C:0F:6F:BA:15:A8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.545509,-82.125607]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ATT8P737D9</name>
+<Point><coordinates>-82.123068,33.549838</coordinates></Point>
+<description><![CDATA[
+SSID: ATT8P737D9<br />
+MAC: 10:05:B1:1A:90:90<br />
+Manuf: ArrisGro<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:29:38 2018<br />
+GPS: 33.549838,-82.123068]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Royal Restrooms</name>
+<Point><coordinates>-82.125236,33.543308</coordinates></Point>
+<description><![CDATA[
+SSID: Royal Restrooms<br />
+MAC: 38:70:0C:0E:14:86<br />
+Manuf: ArrisGro<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:37 2018<br />
+GPS: 33.543308,-82.125236]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124443,33.54044</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: E8:ED:F3:D8:C3:13<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:43 2018<br />
+GPS: 33.54044,-82.124443]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124325,33.540417</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: E8:ED:F3:D8:C3:11<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540417,-82.124325]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124325,33.540417</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: E8:ED:F3:D8:C3:10<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540417,-82.124325]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>TPS 10</name>
+<Point><coordinates>-82.124937,33.540944</coordinates></Point>
+<description><![CDATA[
+SSID: TPS 10<br />
+MAC: B4:75:0E:C4:7A:86<br />
+Manuf: BelkinIn<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:42 2018<br />
+GPS: 33.540944,-82.124937]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Alien</name>
+<Point><coordinates>-82.120313,33.552129</coordinates></Point>
+<description><![CDATA[
+SSID: Alien<br />
+MAC: EC:08:6B:72:43:28<br />
+Manuf: Tp-LinkT<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:21 2018<br />
+GPS: 33.552129,-82.120313]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Golds Gym</name>
+<Point><coordinates>-82.125061,33.540714</coordinates></Point>
+<description><![CDATA[
+SSID: Golds Gym<br />
+MAC: 80:2A:A8:C7:43:53<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:33 2018<br />
+GPS: 33.540714,-82.125061]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>unknown</name>
+<Point><coordinates>-82.123009,33.550134</coordinates></Point>
+<description><![CDATA[
+SSID: unknown<br />
+MAC: 60:E3:27:84:69:64<br />
+Manuf: Tp-LinkT<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:29:37 2018<br />
+GPS: 33.550134,-82.123009]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>farmerbill41</name>
+<Point><coordinates>-82.12494,33.540767</coordinates></Point>
+<description><![CDATA[
+SSID: farmerbill41<br />
+MAC: CC:E1:D5:53:AA:48<br />
+Manuf: Buffalo<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.540767,-82.12494]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.125636,33.545596</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 8C:0F:6F:BA:15:AB<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.545596,-82.125636]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.125236,33.543308</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 74:85:2A:4F:31:DB<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 0<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:37 2018<br />
+GPS: 33.543308,-82.125236]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120529,33.552299</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 78:F2:9E:31:21:6E<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:37 2018<br />
+GPS: 33.552299,-82.120529]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120529,33.552299</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 78:F2:9E:31:21:6D<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:36 2018<br />
+GPS: 33.552299,-82.120529]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>PTI Admin</name>
+<Point><coordinates>-82.12499,33.540898</coordinates></Point>
+<description><![CDATA[
+SSID: PTI Admin<br />
+MAC: 78:8A:20:5A:77:02<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540898,-82.12499]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.122575,33.548429</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: EA:5D:DF:93:93:68<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:26:54 2018<br />
+GPS: 33.548429,-82.122575]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>DIRECT-9E-HP OfficeJet Pro 8720</name>
+<Point><coordinates>-82.125247,33.547878</coordinates></Point>
+<description><![CDATA[
+SSID: DIRECT-9E-HP OfficeJet Pro 8720<br />
+MAC: 30:E1:71:D6:E5:9F<br />
+Manuf: HewlettP<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:53 2018<br />
+GPS: 33.547878,-82.125247]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125463,33.544337</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0D:67:84:8E:D4<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:51 2018<br />
+GPS: 33.544337,-82.125463]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>baxterregion</name>
+<Point><coordinates>-82.120468,33.553552</coordinates></Point>
+<description><![CDATA[
+SSID: baxterregion<br />
+MAC: 48:F8:B3:F7:80:2E<br />
+Manuf: Cisco-Li<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:10 2018<br />
+GPS: 33.553552,-82.120468]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CreativeUpstairs-2.4</name>
+<Point><coordinates>-82.121006,33.552975</coordinates></Point>
+<description><![CDATA[
+SSID: CreativeUpstairs-2.4<br />
+MAC: 8C:0F:6F:80:EE:20<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:11 2018<br />
+GPS: 33.552975,-82.121006]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.121054,33.552951</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 8C:0F:6F:80:EE:23<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:11 2018<br />
+GPS: 33.552951,-82.121054]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>EvansSmile Guest</name>
+<Point><coordinates>-82.124986,33.540974</coordinates></Point>
+<description><![CDATA[
+SSID: EvansSmile Guest<br />
+MAC: A2:04:60:32:F4:B6<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:38 2018<br />
+GPS: 33.540974,-82.124986]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CMA Guest</name>
+<Point><coordinates>-82.120719,33.553283</coordinates></Point>
+<description><![CDATA[
+SSID: CMA Guest<br />
+MAC: 22:90:7F:E0:6B:83<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:51 2018<br />
+GPS: 33.553283,-82.120719]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>StephaniesDancers</name>
+<Point><coordinates>-82.121953,33.552115</coordinates></Point>
+<description><![CDATA[
+SSID: StephaniesDancers<br />
+MAC: C8:D7:19:92:18:42<br />
+Manuf: Cisco-Li<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:11 2018<br />
+GPS: 33.552115,-82.121953]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>NEXAIRGUEST</name>
+<Point><coordinates>-82.12497,33.540995</coordinates></Point>
+<description><![CDATA[
+SSID: NEXAIRGUEST<br />
+MAC: 0C:8D:DB:68:BD:CA<br />
+Manuf: CiscoMer<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:43 2018<br />
+GPS: 33.540995,-82.12497]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.120472,33.553555</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: D8:97:BA:65:8C:A3<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:09 2018<br />
+GPS: 33.553555,-82.120472]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>CBCI-9286-2.4</name>
+<Point><coordinates>-82.120473,33.553552</coordinates></Point>
+<description><![CDATA[
+SSID: CBCI-9286-2.4<br />
+MAC: D8:97:BA:65:8C:A0<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:31:09 2018<br />
+GPS: 33.553552,-82.120473]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.125005,33.540969</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 20:25:64:FC:BD:93<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:08 2018<br />
+GPS: 33.540969,-82.125005]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>WrightMcleod</name>
+<Point><coordinates>-82.124983,33.54106</coordinates></Point>
+<description><![CDATA[
+SSID: WrightMcleod<br />
+MAC: 46:D9:E7:FD:E2:36<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:11 2018<br />
+GPS: 33.54106,-82.124983]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>the_island</name>
+<Point><coordinates>-82.120866,33.553039</coordinates></Point>
+<description><![CDATA[
+SSID: the_island<br />
+MAC: 8C:0F:6F:93:A7:F8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:21 2018<br />
+GPS: 33.553039,-82.120866]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ARRIS-2D68</name>
+<Point><coordinates>-82.120228,33.552826</coordinates></Point>
+<description><![CDATA[
+SSID: ARRIS-2D68<br />
+MAC: 38:70:0C:C2:2D:66<br />
+Manuf: ArrisGro<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:19 2018<br />
+GPS: 33.552826,-82.120228]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.122719,33.548738</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: C0:7C:D1:47:BB:AB<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:56 2018<br />
+GPS: 33.548738,-82.122719]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.120982,33.552917</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 8C:0F:6F:93:A7:FB<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:21 2018<br />
+GPS: 33.552917,-82.120982]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120333,33.552175</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 78:F2:9E:31:21:6B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:37 2018<br />
+GPS: 33.552175,-82.120333]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>SPHB</name>
+<Point><coordinates>-82.125459,33.545964</coordinates></Point>
+<description><![CDATA[
+SSID: SPHB<br />
+MAC: 00:17:C5:BB:06:05<br />
+Manuf: Sonicwal<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:23 2018<br />
+GPS: 33.545964,-82.125459]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125198,33.543045</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0D:67:50:7F:84<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:38 2018<br />
+GPS: 33.543045,-82.125198]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>GeorgiaTest</name>
+<Point><coordinates>-82.122704,33.547218</coordinates></Point>
+<description><![CDATA[
+SSID: GeorgiaTest<br />
+MAC: 94:F6:65:48:F7:A8<br />
+Manuf: RuckusWi<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:18 2018<br />
+GPS: 33.547218,-82.122704]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Kirklands</name>
+<Point><coordinates>-82.124969,33.540558</coordinates></Point>
+<description><![CDATA[
+SSID: Kirklands<br />
+MAC: 2C:30:33:CC:B5:A3<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540558,-82.124969]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>DIRECT-15-HP M102 LaserJet</name>
+<Point><coordinates>-82.125153,33.548018</coordinates></Point>
+<description><![CDATA[
+SSID: DIRECT-15-HP M102 LaserJet<br />
+MAC: 96:53:30:16:E2:15<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:55 2018<br />
+GPS: 33.548018,-82.125153]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ABBEvans</name>
+<Point><coordinates>-82.125704,33.546278</coordinates></Point>
+<description><![CDATA[
+SSID: ABBEvans<br />
+MAC: 58:6D:8F:2F:A4:6D<br />
+Manuf: Cisco-Li<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:10 2018<br />
+GPS: 33.546278,-82.125704]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125557,33.54499</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0B:86:78:43:11<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:23 2018<br />
+GPS: 33.54499,-82.125557]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125534,33.544933</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0B:86:78:43:12<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:23 2018<br />
+GPS: 33.544933,-82.125534]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0D:67:84:1F:6C<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:14 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ATT4380</name>
+<Point><coordinates>-82.125,33.540994</coordinates></Point>
+<description><![CDATA[
+SSID: ATT4380<br />
+MAC: 08:BD:43:E5:3D:FA<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:38 2018<br />
+GPS: 33.540994,-82.125]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.125048,33.541437</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 74:85:2A:4A:BE:1B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.541437,-82.125048]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>EUC</name>
+<Point><coordinates>-82.125,33.540811</coordinates></Point>
+<description><![CDATA[
+SSID: EUC<br />
+MAC: 10:DA:43:AC:8B:09<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:35 2018<br />
+GPS: 33.540811,-82.125]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>IG_WiFi</name>
+<Point><coordinates>-82.125386,33.544036</coordinates></Point>
+<description><![CDATA[
+SSID: IG_WiFi<br />
+MAC: 9C:1C:12:67:77:81<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:41 2018<br />
+GPS: 33.544036,-82.125386]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>stevesierra</name>
+<Point><coordinates>-82.125394,33.54343</coordinates></Point>
+<description><![CDATA[
+SSID: stevesierra<br />
+MAC: F0:AB:54:10:3F:F9<br />
+Manuf: MitsumiE<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:38 2018<br />
+GPS: 33.54343,-82.125394]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.124955,33.540859</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 10:05:01:27:EE:13<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:42 2018<br />
+GPS: 33.540859,-82.124955]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.123405,33.549618</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 84:00:2D:E8:7B:6E<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:20 2018<br />
+GPS: 33.549618,-82.123405]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.123405,33.549618</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 84:00:2D:E8:7B:6D<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:20 2018<br />
+GPS: 33.549618,-82.123405]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>ABBevWH</name>
+<Point><coordinates>-82.123455,33.547692</coordinates></Point>
+<description><![CDATA[
+SSID: ABBevWH<br />
+MAC: FC:0A:81:9D:01:70<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:53 2018<br />
+GPS: 33.547692,-82.123455]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Williams</name>
+<Point><coordinates>-82.123019,33.55023</coordinates></Point>
+<description><![CDATA[
+SSID: Williams<br />
+MAC: 88:F7:C7:33:86:3A<br />
+Manuf: Technico<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:24 2018<br />
+GPS: 33.55023,-82.123019]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>TUCKER 5GHz</name>
+<Point><coordinates>-82.125198,33.543045</coordinates></Point>
+<description><![CDATA[
+SSID: TUCKER 5GHz<br />
+MAC: 82:2A:A8:8A:B5:0D<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:38 2018<br />
+GPS: 33.543045,-82.125198]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Creative-2.4</name>
+<Point><coordinates>-82.120806,33.553228</coordinates></Point>
+<description><![CDATA[
+SSID: Creative-2.4<br />
+MAC: 84:00:2D:E3:B3:D8<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:52 2018<br />
+GPS: 33.553228,-82.120806]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.120806,33.553226</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 84:00:2D:E3:B3:DB<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:52 2018<br />
+GPS: 33.553226,-82.120806]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>unknown-guest</name>
+<Point><coordinates>-82.123022,33.550151</coordinates></Point>
+<description><![CDATA[
+SSID: unknown-guest<br />
+MAC: 62:E3:27:84:69:64<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:32 2018<br />
+GPS: 33.550151,-82.123022]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>GMC_762SP_2.4GHz</name>
+<Point><coordinates>-82.120628,33.553314</coordinates></Point>
+<description><![CDATA[
+SSID: GMC_762SP_2.4GHz<br />
+MAC: C0:EA:E4:B7:6D:4E<br />
+Manuf: Sonicwal<br />
+Type: infrastructure<br />
+Channel: 0<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:30:35 2018<br />
+GPS: 33.553314,-82.120628]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>PB-Wifi-2.4</name>
+<Point><coordinates>-82.125702,33.546192</coordinates></Point>
+<description><![CDATA[
+SSID: PB-Wifi-2.4<br />
+MAC: 20:25:64:6A:93:00<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:07 2018<br />
+GPS: 33.546192,-82.125702]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Ivey Design Studio</name>
+<Point><coordinates>-82.125853,33.546001</coordinates></Point>
+<description><![CDATA[
+SSID: Ivey Design Studio<br />
+MAC: 94:10:3E:F6:CB:12<br />
+Manuf: BelkinIn<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:11 2018<br />
+GPS: 33.546001,-82.125853]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Kirkland's Flooring</name>
+<Point><coordinates>-82.124775,33.540755</coordinates></Point>
+<description><![CDATA[
+SSID: Kirkland's Flooring<br />
+MAC: F2:9F:C2:3A:E5:03<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540755,-82.124775]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>GeorgiaTest</name>
+<Point><coordinates>-82.122616,33.547598</coordinates></Point>
+<description><![CDATA[
+SSID: GeorgiaTest<br />
+MAC: 94:F6:65:49:6A:E8<br />
+Manuf: RuckusWi<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:27:49 2018<br />
+GPS: 33.547598,-82.122616]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.124825,33.540662</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 8C:0F:6F:96:AD:CB<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.540662,-82.124825]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.12438,33.540425</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 3C:CE:73:1B:F1:B1<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.540425,-82.12438]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124094,33.540377</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 3C:CE:73:1B:F1:B0<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.540377,-82.124094]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124049,33.540368</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 3C:CE:73:1B:F1:B3<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.540368,-82.124049]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>NetGear-1</name>
+<Point><coordinates>-82.122739,33.548835</coordinates></Point>
+<description><![CDATA[
+SSID: NetGear-1<br />
+MAC: C4:04:15:86:4E:AA<br />
+Manuf: Netgear<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:07 2018<br />
+GPS: 33.548835,-82.122739]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Ashmore Concrete</name>
+<Point><coordinates>-82.120754,33.55222</coordinates></Point>
+<description><![CDATA[
+SSID: Ashmore Concrete<br />
+MAC: 80:2A:A8:1A:E0:C6<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:11 2018<br />
+GPS: 33.55222,-82.120754]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>HP-Print-E2-Officejet 7610</name>
+<Point><coordinates>-82.125236,33.543308</coordinates></Point>
+<description><![CDATA[
+SSID: HP-Print-E2-Officejet 7610<br />
+MAC: 70:5A:0F:6A:00:E2<br />
+Manuf: HewlettP<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:37 2018<br />
+GPS: 33.543308,-82.125236]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>TUCKER</name>
+<Point><coordinates>-82.125175,33.542923</coordinates></Point>
+<description><![CDATA[
+SSID: TUCKER<br />
+MAC: 80:2A:A8:8A:B5:0D<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:39 2018<br />
+GPS: 33.542923,-82.125175]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>RancoGuest</name>
+<Point><coordinates>-82.122773,33.548923</coordinates></Point>
+<description><![CDATA[
+SSID: RancoGuest<br />
+MAC: 82:2A:A8:87:B6:45<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:28:08 2018<br />
+GPS: 33.548923,-82.122773]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>WiFi Hotspot 3507</name>
+<Point><coordinates>-82.121033,33.552542</coordinates></Point>
+<description><![CDATA[
+SSID: WiFi Hotspot 3507<br />
+MAC: C4:49:BB:66:06:58<br />
+Manuf: MitsumiE<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:30:38 2018<br />
+GPS: 33.552542,-82.121033]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Kirkland's Flooring</name>
+<Point><coordinates>-82.124989,33.540738</coordinates></Point>
+<description><![CDATA[
+SSID: Kirkland's Flooring<br />
+MAC: 7A:8A:20:5A:77:02<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540738,-82.124989]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.124942,33.540865</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0D:67:84:20:70<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540865,-82.124942]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.120845,33.55262</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 78:8A:20:81:BA:EC<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:07 2018<br />
+GPS: 33.55262,-82.120845]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>XFINITY</name>
+<Point><coordinates>-82.124955,33.541319</coordinates></Point>
+<description><![CDATA[
+SSID: XFINITY<br />
+MAC: 84:00:2D:8A:E5:4B<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:56 2018<br />
+GPS: 33.541319,-82.124955]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Kaizen-Public</name>
+<Point><coordinates>-82.124946,33.541256</coordinates></Point>
+<description><![CDATA[
+SSID: Kaizen-Public<br />
+MAC: 2E:A4:3C:0D:1A:D7<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:53 2018<br />
+GPS: 33.541256,-82.124946]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>VTR2.4</name>
+<Point><coordinates>-82.124954,33.541462</coordinates></Point>
+<description><![CDATA[
+SSID: VTR2.4<br />
+MAC: 84:00:2D:8A:E5:48<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:34:52 2018<br />
+GPS: 33.541462,-82.124954]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name></name>
+<Point><coordinates>-82.122583,33.548439</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: E2:5D:DF:93:93:68<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:26:54 2018<br />
+GPS: 33.548439,-82.122583]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>TBCWEST</name>
+<Point><coordinates>-82.124994,33.54116</coordinates></Point>
+<description><![CDATA[
+SSID: TBCWEST<br />
+MAC: 00:11:74:DD:78:E0<br />
+Manuf: MojoNetw<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:35:23 2018<br />
+GPS: 33.54116,-82.124994]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>jandmgolfcarts</name>
+<Point><coordinates>-82.124003,33.548908</coordinates></Point>
+<description><![CDATA[
+SSID: jandmgolfcarts<br />
+MAC: 14:91:82:B1:D2:F1<br />
+Manuf: BelkinIn<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:53 2018<br />
+GPS: 33.548908,-82.124003]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Ashmore Guest</name>
+<Point><coordinates>-82.120909,33.552257</coordinates></Point>
+<description><![CDATA[
+SSID: Ashmore Guest<br />
+MAC: 82:2A:A8:1A:E0:C6<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:11 2018<br />
+GPS: 33.552257,-82.120909]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-nickel</name>
+<Point><coordinates>-82.123729,33.549659</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-nickel<br />
+MAC: D8:C7:C8:67:C3:D0<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:40 2018<br />
+GPS: 33.549659,-82.123729]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-clinical</name>
+<Point><coordinates>-82.123712,33.549616</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-clinical<br />
+MAC: D8:C7:C8:67:C3:D3<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+TKIP WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:41 2018<br />
+GPS: 33.549616,-82.123712]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>fmc-acm</name>
+<Point><coordinates>-82.123732,33.549664</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-acm<br />
+MAC: D8:C7:C8:67:C3:D2<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:33:40 2018<br />
+GPS: 33.549664,-82.123732]]></description></Placemark>
+
+<Placemark><styleUrl>#WPA</styleUrl><name>Ashmore Concrete</name>
+<Point><coordinates>-82.120158,33.552041</coordinates></Point>
+<description><![CDATA[
+SSID: Ashmore Concrete<br />
+MAC: 4A:D9:E7:B3:FC:38<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=red>WPA+PSK WPA+AES-CCM</FONT><br />
+Last time: Wed Mar 14 08:32:26 2018<br />
+GPS: 33.552041,-82.120158]]></description></Placemark>
+
+</Folder>
+
+<Folder>
+<name>WEP: 11 APs</name>
+<Style id="WEP"><IconStyle><scale>0.5</scale>
+<Icon>")
+<href>http://files.salecker.org/netxml2kml/images/WEP.gif</href>
+</Icon></IconStyle></Style>
+
+<Placemark><styleUrl>#WEP</styleUrl><name></name>
+<Point><coordinates>-82.125008,33.540939</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 5C:0E:8B:A2:01:F1<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540939,-82.125008]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name>NEXAIR</name>
+<Point><coordinates>-82.124975,33.540968</coordinates></Point>
+<description><![CDATA[
+SSID: NEXAIR<br />
+MAC: 0A:8D:DB:68:BD:CA<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:35:44 2018<br />
+GPS: 33.540968,-82.124975]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name></name>
+<Point><coordinates>-82.124993,33.541</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 8A:15:04:B7:8D:1F<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.541,-82.124993]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name>NEXAIR</name>
+<Point><coordinates>-82.125003,33.540984</coordinates></Point>
+<description><![CDATA[
+SSID: NEXAIR<br />
+MAC: 8A:15:04:B7:8D:11<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:35:33 2018<br />
+GPS: 33.540984,-82.125003]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name></name>
+<Point><coordinates>-82.12492,33.541483</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 5C:0E:8B:5A:FD:B1<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:35:45 2018<br />
+GPS: 33.541483,-82.12492]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name></name>
+<Point><coordinates>-82.1211,33.552949</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 2C:D0:2D:8A:84:76<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:31:10 2018<br />
+GPS: 33.552949,-82.1211]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name>1Rc1sc@</name>
+<Point><coordinates>-82.121693,33.552382</coordinates></Point>
+<description><![CDATA[
+SSID: 1Rc1sc@<br />
+MAC: 2C:D0:2D:8A:84:70<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:32:52 2018<br />
+GPS: 33.552382,-82.121693]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 5C:0E:8B:A2:23:81<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:35:23 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name>VIZIO</name>
+<Point><coordinates>-82.124954,33.541462</coordinates></Point>
+<description><![CDATA[
+SSID: VIZIO<br />
+MAC: 00:19:9D:4E:20:61<br />
+Manuf: Vizio<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:34:52 2018<br />
+GPS: 33.541462,-82.124954]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name></name>
+<Point><coordinates>-82.124993,33.540853</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 5C:0E:8B:A2:03:21<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540853,-82.124993]]></description></Placemark>
+
+<Placemark><styleUrl>#WEP</styleUrl><name>artwalker</name>
+<Point><coordinates>-82.124989,33.541035</coordinates></Point>
+<description><![CDATA[
+SSID: artwalker<br />
+MAC: 00:0F:CC:FD:EC:BC<br />
+Manuf: ArrisGro<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=orange>WEP</FONT><br />
+Last time: Wed Mar 14 08:35:35 2018<br />
+GPS: 33.541035,-82.124989]]></description></Placemark>
+
+</Folder>
+
+<Folder>
+<name>None: 83 APs</name>
+<Style id="None"><IconStyle><scale>0.5</scale>
+<Icon>")
+<href>http://files.salecker.org/netxml2kml/images/Open.gif</href>
+</Icon></IconStyle></Style>
+
+<Placemark><styleUrl>#None</styleUrl><name>Lowes-Guest-WiFi</name>
+<Point><coordinates>-82.125,33.541106</coordinates></Point>
+<description><![CDATA[
+SSID: Lowes-Guest-WiFi<br />
+MAC: 5C:0E:8B:A2:01:F2<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:10 2018<br />
+GPS: 33.541106,-82.125]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HP-Print-e3-LaserJet 400 color</name>
+<Point><coordinates>-82.125553,33.544924</coordinates></Point>
+<description><![CDATA[
+SSID: HP-Print-e3-LaserJet 400 color<br />
+MAC: 9C:AD:97:5C:7A:E3<br />
+Manuf: HonHaiPr<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:35 2018<br />
+GPS: 33.544924,-82.125553]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.125773,33.545955</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: C0:7C:D1:4E:2E:0A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:20 2018<br />
+GPS: 33.545955,-82.125773]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.121034,33.552819</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 60:02:92:9E:A9:C2<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:25 2018<br />
+GPS: 33.552819,-82.121034]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.120425,33.552242</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 5A:23:8C:66:1B:64<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:32:34 2018<br />
+GPS: 33.552242,-82.120425]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>fmc-guest</name>
+<Point><coordinates>-82.123115,33.550109</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-guest<br />
+MAC: D8:C7:C8:67:C8:F1<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:38 2018<br />
+GPS: 33.550109,-82.123115]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.121397,33.552609</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: D8:97:BA:7F:B6:AA<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:07 2018<br />
+GPS: 33.552609,-82.121397]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.122806,33.548953</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 10:05:01:69:E4:7A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:28:04 2018<br />
+GPS: 33.548953,-82.122806]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Golds Gym - Guest</name>
+<Point><coordinates>-82.124995,33.540942</coordinates></Point>
+<description><![CDATA[
+SSID: Golds Gym - Guest<br />
+MAC: 82:2A:A8:C7:43:53<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:07 2018<br />
+GPS: 33.540942,-82.124995]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name></name>
+<Point><coordinates>-82.120603,33.553485</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 2C:D0:2D:8A:84:73<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:31:33 2018<br />
+GPS: 33.553485,-82.120603]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Columbia_County_EvansTowne</name>
+<Point><coordinates>-82.125514,33.544804</coordinates></Point>
+<description><![CDATA[
+SSID: Columbia_County_EvansTowne<br />
+MAC: 68:86:A7:29:4F:60<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:43 2018<br />
+GPS: 33.544804,-82.125514]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Lowes-Guest-WiFi</name>
+<Point><coordinates>-82.124875,33.541243</coordinates></Point>
+<description><![CDATA[
+SSID: Lowes-Guest-WiFi<br />
+MAC: 5C:0E:8B:5A:FD:B2<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:45 2018<br />
+GPS: 33.541243,-82.124875]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HP-Print-0B-Officejet 4630</name>
+<Point><coordinates>-82.124969,33.540558</coordinates></Point>
+<description><![CDATA[
+SSID: HP-Print-0B-Officejet 4630<br />
+MAC: 28:92:4A:CF:F1:0B<br />
+Manuf: HewlettP<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540558,-82.124969]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name></name>
+<Point><coordinates>-82.12455,33.540455</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:1E:BE:A8:78:72<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.540455,-82.12455]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>countyAnnex</name>
+<Point><coordinates>-82.124214,33.540401</coordinates></Point>
+<description><![CDATA[
+SSID: countyAnnex<br />
+MAC: 00:1E:BE:A8:78:74<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:45 2018<br />
+GPS: 33.540401,-82.124214]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HP-Print-DC-Officejet 6700</name>
+<Point><coordinates>-82.121803,33.552246</coordinates></Point>
+<description><![CDATA[
+SSID: HP-Print-DC-Officejet 6700<br />
+MAC: 38:EA:A7:4E:8A:DC<br />
+Manuf: HewlettP<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:30:07 2018<br />
+GPS: 33.552246,-82.121803]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124971,33.541127</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 60:02:92:E3:5F:FA<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:56 2018<br />
+GPS: 33.541127,-82.124971]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124894,33.540798</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 00:0D:67:84:20:6A<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540798,-82.124894]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>CableWiFi</name>
+<Point><coordinates>-82.124952,33.541025</coordinates></Point>
+<description><![CDATA[
+SSID: CableWiFi<br />
+MAC: 00:0D:67:84:20:6B<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.541025,-82.124952]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>CableWiFi</name>
+<Point><coordinates>-82.125495,33.544635</coordinates></Point>
+<description><![CDATA[
+SSID: CableWiFi<br />
+MAC: 00:0D:67:84:8E:CF<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:46 2018<br />
+GPS: 33.544635,-82.125495]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.125532,33.544564</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 00:0D:67:84:8E:CE<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:47 2018<br />
+GPS: 33.544564,-82.125532]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.125679,33.546287</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 20:25:64:6A:93:02<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:06 2018<br />
+GPS: 33.546287,-82.125679]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.123072,33.550229</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 78:F2:9E:D6:AF:5A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.550229,-82.123072]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Columbia_County_EvansTowne</name>
+<Point><coordinates>-82.1253,33.543637</coordinates></Point>
+<description><![CDATA[
+SSID: Columbia_County_EvansTowne<br />
+MAC: B8:BE:BF:3B:7D:40<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:41 2018<br />
+GPS: 33.543637,-82.1253]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Golds Gym - Guest</name>
+<Point><coordinates>-82.124969,33.540558</coordinates></Point>
+<description><![CDATA[
+SSID: Golds Gym - Guest<br />
+MAC: 82:2A:A8:C7:4F:67<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540558,-82.124969]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Columbia_County_EvansTowne</name>
+<Point><coordinates>-82.123208,33.550044</coordinates></Point>
+<description><![CDATA[
+SSID: Columbia_County_EvansTowne<br />
+MAC: EC:E1:A9:30:1B:20<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:52 2018<br />
+GPS: 33.550044,-82.123208]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>fmc-guest</name>
+<Point><coordinates>-82.123563,33.549751</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-guest<br />
+MAC: D8:C7:C8:67:BB:41<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:31 2018<br />
+GPS: 33.549751,-82.123563]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HP-Print-0d-LaserJet 100</name>
+<Point><coordinates>-82.121829,33.552201</coordinates></Point>
+<description><![CDATA[
+SSID: HP-Print-0d-LaserJet 100<br />
+MAC: BC:85:56:4F:A9:0D<br />
+Manuf: HonHaiPr<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:08 2018<br />
+GPS: 33.552201,-82.121829]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124962,33.541372</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 8C:0F:6F:5C:D9:0A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:54 2018<br />
+GPS: 33.541372,-82.124962]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.122798,33.55053</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 60:02:92:CD:A6:2A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.55053,-82.122798]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>TPS Guest Hotspot</name>
+<Point><coordinates>-82.124949,33.540795</coordinates></Point>
+<description><![CDATA[
+SSID: TPS Guest Hotspot<br />
+MAC: 00:0C:41:CD:34:00<br />
+Manuf: Cisco-Li<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540795,-82.124949]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.122967,33.550196</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 8A:F7:C7:33:86:3C<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:29:40 2018<br />
+GPS: 33.550196,-82.122967]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.123983,33.548704</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 84:00:2D:56:C1:2A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:44 2018<br />
+GPS: 33.548704,-82.123983]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Golds Gym - Guest</name>
+<Point><coordinates>-82.124938,33.540735</coordinates></Point>
+<description><![CDATA[
+SSID: Golds Gym - Guest<br />
+MAC: 82:2A:A8:C7:4F:3B<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:44 2018<br />
+GPS: 33.540735,-82.124938]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HP-Print-71-Photosmart 6520</name>
+<Point><coordinates>-82.123054,33.550232</coordinates></Point>
+<description><![CDATA[
+SSID: HP-Print-71-Photosmart 6520<br />
+MAC: 2C:59:E5:A7:E4:71<br />
+Manuf: HewlettP<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:29:39 2018<br />
+GPS: 33.550232,-82.123054]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>CableWiFi</name>
+<Point><coordinates>-82.124992,33.541125</coordinates></Point>
+<description><![CDATA[
+SSID: CableWiFi<br />
+MAC: 00:0D:67:84:1F:F3<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:24 2018<br />
+GPS: 33.541125,-82.124992]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124985,33.540975</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 00:0D:67:84:1F:F2<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540975,-82.124985]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.125302,33.543579</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 8C:0F:6F:84:53:9A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.543579,-82.125302]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>CableWiFi</name>
+<Point><coordinates>-82.124901,33.54052</coordinates></Point>
+<description><![CDATA[
+SSID: CableWiFi<br />
+MAC: 00:0D:67:84:4B:B3<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.54052,-82.124901]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>baxterregion-guest</name>
+<Point><coordinates>-82.120467,33.553554</coordinates></Point>
+<description><![CDATA[
+SSID: baxterregion-guest<br />
+MAC: 4A:F8:B3:F7:80:2F<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:31:10 2018<br />
+GPS: 33.553554,-82.120467]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124908,33.540768</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 8C:0F:6F:96:AD:CA<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.540768,-82.124908]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Ericsson2.4G-2-1</name>
+<Point><coordinates>-82.125198,33.543045</coordinates></Point>
+<description><![CDATA[
+SSID: Ericsson2.4G-2-1<br />
+MAC: 00:0D:67:50:7F:7D<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:38 2018<br />
+GPS: 33.543045,-82.125198]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>countyAnnex</name>
+<Point><coordinates>-82.1241,33.540379</coordinates></Point>
+<description><![CDATA[
+SSID: countyAnnex<br />
+MAC: C0:7B:BC:23:48:84<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540379,-82.1241]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name></name>
+<Point><coordinates>-82.1241,33.540379</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: C0:7B:BC:23:48:82<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540379,-82.1241]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.125049,33.541942</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 00:0D:67:84:AA:EE<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.541942,-82.125049]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>CableWiFi</name>
+<Point><coordinates>-82.125083,33.541965</coordinates></Point>
+<description><![CDATA[
+SSID: CableWiFi<br />
+MAC: 00:0D:67:84:AA:EF<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.541965,-82.125083]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HPJ610a.8B931E</name>
+<Point><coordinates>-82.123319,33.550089</coordinates></Point>
+<description><![CDATA[
+SSID: HPJ610a.8B931E<br />
+MAC: 02:2D:CD:0A:42:0A<br />
+Manuf: Unknown<br />
+Type: ad-hoc<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:34 2018<br />
+GPS: 33.550089,-82.123319]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.12075,33.552293</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 84:00:2D:5D:56:9A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:07 2018<br />
+GPS: 33.552293,-82.12075]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124934,33.541011</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 8C:0F:6F:C7:09:4A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:40 2018<br />
+GPS: 33.541011,-82.124934]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.122726,33.548185</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 20:25:64:AA:A9:82<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:27:36 2018<br />
+GPS: 33.548185,-82.122726]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Lowes-Guest-WiFi</name>
+<Point><coordinates>-82.124994,33.540817</coordinates></Point>
+<description><![CDATA[
+SSID: Lowes-Guest-WiFi<br />
+MAC: 5C:0E:8B:A2:03:22<br />
+Manuf: ExtremeN<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:38 2018<br />
+GPS: 33.540817,-82.124994]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>TUCKER GUEST</name>
+<Point><coordinates>-82.125198,33.543045</coordinates></Point>
+<description><![CDATA[
+SSID: TUCKER GUEST<br />
+MAC: 92:2A:A8:8A:B5:0D<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:38 2018<br />
+GPS: 33.543045,-82.125198]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>LiftOne-Guest</name>
+<Point><coordinates>-82.125213,33.547932</coordinates></Point>
+<description><![CDATA[
+SSID: LiftOne-Guest<br />
+MAC: 0E:18:0A:6F:96:08<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:53 2018<br />
+GPS: 33.547932,-82.125213]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name></name>
+<Point><coordinates>-82.124413,33.540433</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: E8:ED:F3:D8:C3:12<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540433,-82.124413]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>countyAnnex</name>
+<Point><coordinates>-82.1244,33.540429</coordinates></Point>
+<description><![CDATA[
+SSID: countyAnnex<br />
+MAC: E8:ED:F3:D8:C3:14<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:46 2018<br />
+GPS: 33.540429,-82.1244]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124733,33.540485</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 00:0D:67:84:4B:B2<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:42 2018<br />
+GPS: 33.540485,-82.124733]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.125559,33.545302</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 8C:0F:6F:BA:15:AA<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:40 2018<br />
+GPS: 33.545302,-82.125559]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.125236,33.543308</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 74:85:2A:4F:31:DA<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 0<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:37 2018<br />
+GPS: 33.543308,-82.125236]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.120628,33.551458</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 78:F2:9E:31:21:6A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:32:36 2018<br />
+GPS: 33.551458,-82.120628]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>jandmgolfcarts-guest</name>
+<Point><coordinates>-82.123909,33.549008</coordinates></Point>
+<description><![CDATA[
+SSID: jandmgolfcarts-guest<br />
+MAC: 1A:91:82:B1:D2:F1<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:53 2018<br />
+GPS: 33.549008,-82.123909]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.120914,33.553066</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 8C:0F:6F:80:EE:22<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:11 2018<br />
+GPS: 33.553066,-82.120914]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.120463,33.55356</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: D8:97:BA:65:8C:A2<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:31:09 2018<br />
+GPS: 33.55356,-82.120463]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124985,33.541166</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 20:25:64:FC:BD:92<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:07 2018<br />
+GPS: 33.541166,-82.124985]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name></name>
+<Point><coordinates>-82.125001,33.541055</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:27:22:B3:EF:23<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.541055,-82.125001]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.12273,33.54875</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: C0:7C:D1:47:BB:AA<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:28:01 2018<br />
+GPS: 33.54875,-82.12273]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.120988,33.552885</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 8C:0F:6F:93:A7:FA<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:21 2018<br />
+GPS: 33.552885,-82.120988]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>LiftOne-Guest</name>
+<Point><coordinates>-82.125043,33.548153</coordinates></Point>
+<description><![CDATA[
+SSID: LiftOne-Guest<br />
+MAC: 0E:18:0A:6F:97:D8<br />
+Manuf: Unknown<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:55 2018<br />
+GPS: 33.548153,-82.125043]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.12508,33.541774</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 74:85:2A:4A:BE:1A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.541774,-82.12508]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>Ivey Guest</name>
+<Point><coordinates>-82.125405,33.544048</coordinates></Point>
+<description><![CDATA[
+SSID: Ivey Guest<br />
+MAC: 9C:1C:12:67:77:80<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 11<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:41 2018<br />
+GPS: 33.544048,-82.125405]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>dds-wifi</name>
+<Point><coordinates>-82.124962,33.540795</coordinates></Point>
+<description><![CDATA[
+SSID: dds-wifi<br />
+MAC: 44:D9:E7:A5:24:2C<br />
+Manuf: Ubiquiti<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:40 2018<br />
+GPS: 33.540795,-82.124962]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124956,33.540846</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 10:05:01:27:EE:12<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:42 2018<br />
+GPS: 33.540846,-82.124956]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.123405,33.549618</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 84:00:2D:E8:7B:6A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:28:20 2018<br />
+GPS: 33.549618,-82.123405]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.120827,33.553215</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 84:00:2D:E3:B3:DA<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:32:52 2018<br />
+GPS: 33.553215,-82.120827]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name></name>
+<Point><coordinates>-82.122815,33.548941</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:18:0A:7A:43:E6<br />
+Manuf: CiscoMer<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:28:10 2018<br />
+GPS: 33.548941,-82.122815]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HP-Print-99-LaserJet 100</name>
+<Point><coordinates>-82.121726,33.552299</coordinates></Point>
+<description><![CDATA[
+SSID: HP-Print-99-LaserJet 100<br />
+MAC: A4:17:31:33:60:99<br />
+Manuf: HonHaiPr<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:07 2018<br />
+GPS: 33.552299,-82.121726]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HPJ610a.8BC849</name>
+<Point><coordinates>-82.123211,33.550228</coordinates></Point>
+<description><![CDATA[
+SSID: HPJ610a.8BC849<br />
+MAC: 02:28:38:CD:AB:CC<br />
+Manuf: Unknown<br />
+Type: ad-hoc<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:29:39 2018<br />
+GPS: 33.550228,-82.123211]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.124901,33.54052</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 00:0D:67:9D:A2:36<br />
+Manuf: Ericsson<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.54052,-82.124901]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>countyAnnex</name>
+<Point><coordinates>-82.124235,33.540401</coordinates></Point>
+<description><![CDATA[
+SSID: countyAnnex<br />
+MAC: 3C:CE:73:1B:F1:B4<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.540401,-82.124235]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name></name>
+<Point><coordinates>-82.124223,33.540398</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 3C:CE:73:1B:F1:B2<br />
+Manuf: Cisco<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.540398,-82.124223]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>HP-Print-AE-Officejet Pro X576dw</name>
+<Point><coordinates>-82.121254,33.552673</coordinates></Point>
+<description><![CDATA[
+SSID: HP-Print-AE-Officejet Pro X576dw<br />
+MAC: 48:0F:CF:A6:FC:AE<br />
+Manuf: HewlettP<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:08 2018<br />
+GPS: 33.552673,-82.121254]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 00:71:C2:88:EB:32<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:35:11 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>xfinitywifi</name>
+<Point><coordinates>-82.12496,33.54135</coordinates></Point>
+<description><![CDATA[
+SSID: xfinitywifi<br />
+MAC: 84:00:2D:8A:E5:4A<br />
+Manuf: Pegatron<br />
+Type: infrastructure<br />
+Channel: 6<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:34:56 2018<br />
+GPS: 33.54135,-82.12496]]></description></Placemark>
+
+<Placemark><styleUrl>#None</styleUrl><name>fmc-guest</name>
+<Point><coordinates>-82.123811,33.549589</coordinates></Point>
+<description><![CDATA[
+SSID: fmc-guest<br />
+MAC: D8:C7:C8:67:C3:D1<br />
+Manuf: ArubaNet<br />
+Type: infrastructure<br />
+Channel: 1<br />
+Encryption: <FONT color=green>None</FONT><br />
+Last time: Wed Mar 14 08:33:49 2018<br />
+GPS: 33.549589,-82.123811]]></description></Placemark>
+
+</Folder>
+
+<Folder>
+<name>Other: 98 APs</name>
+<Style id="Other"><IconStyle><scale>0.5</scale>
+<Icon>")
+<href>http://files.salecker.org/netxml2kml/images/Open.gif</href>
+</Icon></IconStyle></Style>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125053,33.540661</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: EA:9B:FD:BF:B7:C9<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:34 2018<br />
+GPS: 33.540661,-82.125053]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12455,33.540455</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 30:A9:DE:DE:56:7A<br />
+Manuf: LgInnote<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:41 2018<br />
+GPS: 33.540455,-82.12455]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123375,33.550335</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 9A:A2:C0:6F:93:DB<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.550335,-82.123375]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12059,33.553448</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: CE:B5:1E:10:76:1D<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:31:09 2018<br />
+GPS: 33.553448,-82.12059]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125503,33.544815</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 02:61:DA:EA:35:41<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:25 2018<br />
+GPS: 33.544815,-82.125503]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122917,33.550512</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 70:77:81:58:01:33<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:25 2018<br />
+GPS: 33.550512,-82.122917]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.121925,33.552204</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: B0:10:41:32:82:2D<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:07 2018<br />
+GPS: 33.552204,-82.121925]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125534,33.544933</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: A2:9A:3E:5D:50:91<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:23 2018<br />
+GPS: 33.544933,-82.125534]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122337,33.550674</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: B8:D7:AF:04:98:23<br />
+Manuf: MurataMa<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:08 2018<br />
+GPS: 33.550674,-82.122337]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125012,33.541013</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 32:8D:DB:68:BD:CA<br />
+Manuf: Unknown<br />
+Type: ad-hoc<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:31 2018<br />
+GPS: 33.541013,-82.125012]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123866,33.549424</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:34:DA:77:8F:A9<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:49 2018<br />
+GPS: 33.549424,-82.123866]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122421,33.550735</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 70:77:81:58:35:C3<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:18 2018<br />
+GPS: 33.550735,-82.122421]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122581,33.54747</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 92:68:C3:62:3B:21<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:27:37 2018<br />
+GPS: 33.54747,-82.122581]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125679,33.545246</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:AE:FA:67:AF:DC<br />
+Manuf: MurataMa<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:20 2018<br />
+GPS: 33.545246,-82.125679]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120026,33.551937</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 0E:8D:FB:D9:2C:CF<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:32:21 2018<br />
+GPS: 33.551937,-82.120026]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123107,33.549318</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 74:DF:BF:17:46:29<br />
+Manuf: LiteonTe<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:28:30 2018<br />
+GPS: 33.549318,-82.123107]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.121109,33.553066</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 2C:59:8A:40:02:2D<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:31:29 2018<br />
+GPS: 33.553066,-82.121109]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125145,33.542734</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:15:99:74:DB:00<br />
+Manuf: SamsungE<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:43 2018<br />
+GPS: 33.542734,-82.125145]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122803,33.551086</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 70:77:81:82:48:CF<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:19 2018<br />
+GPS: 33.551086,-82.122803]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 9A:01:86:C0:59:9C<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:19 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122902,33.550175</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: D0:13:FD:59:C4:EB<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:37 2018<br />
+GPS: 33.550175,-82.122902]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122902,33.550175</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: DA:A1:19:8C:55:BE<br />
+Manuf: Google<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:36 2018<br />
+GPS: 33.550175,-82.122902]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124344,33.549114</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: B6:8D:DF:12:81:A6<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:40 2018<br />
+GPS: 33.549114,-82.124344]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125305,33.543697</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 10:F1:F2:4D:24:AD<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:34 2018<br />
+GPS: 33.543697,-82.125305]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125626,33.545143</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 7E:E4:79:D4:5B:B3<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:21 2018<br />
+GPS: 33.545143,-82.125626]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123375,33.550335</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: DA:A1:19:21:30:AD<br />
+Manuf: Google<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.550335,-82.123375]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120994,33.552521</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 90:48:9A:D5:2E:39<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:32:45 2018<br />
+GPS: 33.552521,-82.120994]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122612,33.548569</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 80:00:0B:C7:BC:03<br />
+Manuf: IntelCor<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:26:48 2018<br />
+GPS: 33.548569,-82.122612]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122849,33.548954</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: EC:F0:0E:3B:6C:18<br />
+Manuf: Abocom<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:26:39 2018<br />
+GPS: 33.548954,-82.122849]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12513,33.542671</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 76:CD:FC:84:C4:81<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:41 2018<br />
+GPS: 33.542671,-82.12513]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122757,33.548996</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: DA:A1:19:82:91:45<br />
+Manuf: Google<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:28:06 2018<br />
+GPS: 33.548996,-82.122757]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 46:C8:1D:37:C0:D2<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:19 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 7E:31:28:E8:E4:F9<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:21 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122437,33.550598</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: B0:E8:92:0A:15:22<br />
+Manuf: SeikoEps<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:05 2018<br />
+GPS: 33.550598,-82.122437]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125145,33.548061</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:18:0A:6F:97:D8<br />
+Manuf: CiscoMer<br />
+Type: ad-hoc<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:50 2018<br />
+GPS: 33.548061,-82.125145]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122528,33.550503</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 52:69:0A:5E:DA:5E<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:03 2018<br />
+GPS: 33.550503,-82.122528]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124969,33.540558</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 96:5D:BE:3A:85:15<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540558,-82.124969]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122856,33.548958</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 48:43:7C:3C:EA:88<br />
+Manuf: Apple<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:26:23 2018<br />
+GPS: 33.548958,-82.122856]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124006,33.543631</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 92:68:C3:8E:F7:44<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.543631,-82.124006]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122307,33.550812</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 70:77:81:58:18:79<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:14 2018<br />
+GPS: 33.550812,-82.122307]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120026,33.551937</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: AC:18:26:59:62:DB<br />
+Manuf: SeikoEps<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:32:21 2018<br />
+GPS: 33.551937,-82.120026]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122505,33.550613</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 70:77:81:82:38:AD<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:22 2018<br />
+GPS: 33.550613,-82.122505]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122902,33.550175</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 92:68:C3:2A:E3:1A<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:38 2018<br />
+GPS: 33.550175,-82.122902]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.121132,33.553005</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: E6:5F:8E:FD:BC:C9<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:30:18 2018<br />
+GPS: 33.553005,-82.121132]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125801,33.545418</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: AC:5F:3E:AB:D1:B9<br />
+Manuf: SamsungE<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:19 2018<br />
+GPS: 33.545418,-82.125801]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123405,33.549618</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: B0:65:BD:68:A2:4D<br />
+Manuf: Apple<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:28:20 2018<br />
+GPS: 33.549618,-82.123405]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125198,33.543045</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: B0:B2:DC:DC:13:78<br />
+Manuf: ZyxelCom<br />
+Type: data<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:38 2018<br />
+GPS: 33.543045,-82.125198]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124969,33.540558</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: A4:70:D6:B7:B2:22<br />
+Manuf: Motorola<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540558,-82.124969]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122947,33.548033</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 7C:67:A2:F2:96:CB<br />
+Manuf: IntelCor<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:31 2018<br />
+GPS: 33.548033,-82.122947]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.121727,33.552467</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 10:F1:F2:30:BC:79<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:04 2018<br />
+GPS: 33.552467,-82.121727]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 22:E3:4B:19:4C:26<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:04 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.121033,33.553131</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:00:00:00:00:00<br />
+Manuf: Unknown<br />
+Type: ad-hoc<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:31:33 2018<br />
+GPS: 33.553131,-82.121033]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124969,33.540558</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:DB:70:7D:87:70<br />
+Manuf: Apple<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:37 2018<br />
+GPS: 33.540558,-82.124969]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: F8:CF:C5:DD:34:E9<br />
+Manuf: Motorola<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:04 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122658,33.550362</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: BC:EE:7B:33:F5:70<br />
+Manuf: AsustekC<br />
+Type: data<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:28:58 2018<br />
+GPS: 33.550362,-82.122658]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125679,33.546287</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 02:CA:FE:CA:CA:40<br />
+Manuf: Unknown<br />
+Type: ad-hoc<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:06 2018<br />
+GPS: 33.546287,-82.125679]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122849,33.55019</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: A8:B8:6E:7F:C9:EE<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:35 2018<br />
+GPS: 33.55019,-82.122849]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.121048,33.552441</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 48:F0:7B:4D:84:69<br />
+Manuf: AlpsElec<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:30:35 2018<br />
+GPS: 33.552441,-82.121048]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125679,33.545246</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 48:F0:7B:E5:54:9A<br />
+Manuf: AlpsElec<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:20 2018<br />
+GPS: 33.545246,-82.125679]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120464,33.552171</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 32:8D:DB:D9:2C:CF<br />
+Manuf: Unknown<br />
+Type: ad-hoc<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:32:51 2018<br />
+GPS: 33.552171,-82.120464]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120628,33.553314</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 4C:B1:99:3F:A4:57<br />
+Manuf: Apple<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:30:35 2018<br />
+GPS: 33.553314,-82.120628]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123634,33.54977</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 6A:DF:C7:F6:28:14<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:28:32 2018<br />
+GPS: 33.54977,-82.123634]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125801,33.545418</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: FC:2D:5E:62:F5:1C<br />
+Manuf: Zte<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:19 2018<br />
+GPS: 33.545418,-82.125801]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122437,33.550598</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: DA:A1:19:CF:34:AA<br />
+Manuf: Google<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:05 2018<br />
+GPS: 33.550598,-82.122437]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123375,33.550335</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: DA:A1:19:C4:D3:50<br />
+Manuf: Google<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:26 2018<br />
+GPS: 33.550335,-82.123375]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125705,33.546314</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 78:DA:6E:E6:0C:8C<br />
+Manuf: Cisco<br />
+Type: data<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:08 2018<br />
+GPS: 33.546314,-82.125705]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122665,33.550418</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 70:77:81:58:05:71<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:28 2018<br />
+GPS: 33.550418,-82.122665]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124946,33.541256</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 5C:AF:06:92:2E:94<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:53 2018<br />
+GPS: 33.541256,-82.124946]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12252,33.550578</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: D8:49:2F:29:DE:2D<br />
+Manuf: Canon<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:25 2018<br />
+GPS: 33.550578,-82.12252]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120972,33.553013</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 54:13:79:88:B9:3B<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:31:24 2018<br />
+GPS: 33.553013,-82.120972]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125534,33.544933</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 54:33:CB:B1:A5:F9<br />
+Manuf: Apple<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:23 2018<br />
+GPS: 33.544933,-82.125534]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122505,33.550613</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 58:3F:54:F4:03:97<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:22 2018<br />
+GPS: 33.550613,-82.122505]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122879,33.550983</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 12:06:29:29:8E:16<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:20 2018<br />
+GPS: 33.550983,-82.122879]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122398,33.550766</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: DA:A1:19:2F:6E:CD<br />
+Manuf: Google<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:17 2018<br />
+GPS: 33.550766,-82.122398]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125061,33.540714</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 62:E3:3B:57:DC:65<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:33 2018<br />
+GPS: 33.540714,-82.125061]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125328,33.543819</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:16:A4:21:A1:00<br />
+Manuf: Ezurio<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:33 2018<br />
+GPS: 33.543819,-82.125328]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123016,33.550804</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: EE:93:96:EE:69:04<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:22 2018<br />
+GPS: 33.550804,-82.123016]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12397,33.549587</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:0E:8E:5B:0A:73<br />
+Manuf: Sparklan<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:35 2018<br />
+GPS: 33.549587,-82.12397]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12532,33.54776</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 32:B6:5F:B2:A6:F6<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:53 2018<br />
+GPS: 33.54776,-82.12532]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.121437,33.552689</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:26:B4:53:58:D0<br />
+Manuf: FordMoto<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:32:59 2018<br />
+GPS: 33.552689,-82.121437]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124741,33.540485</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: CA:50:D1:C1:CE:70<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:40 2018<br />
+GPS: 33.540485,-82.124741]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122505,33.550613</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 70:77:81:58:01:2F<br />
+Manuf: HonHaiPr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:22 2018<br />
+GPS: 33.550613,-82.122505]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122826,33.550209</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: DA:A1:19:A8:45:56<br />
+Manuf: Google<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:29:34 2018<br />
+GPS: 33.550209,-82.122826]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12532,33.54776</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:18:0A:6F:96:08<br />
+Manuf: CiscoMer<br />
+Type: ad-hoc<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:53 2018<br />
+GPS: 33.54776,-82.12532]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120529,33.552299</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 00:6B:9E:8F:6A:6B<br />
+Manuf: Vizio<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:32:37 2018<br />
+GPS: 33.552299,-82.120529]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120514,33.553535</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 8E:E7:EE:6F:C4:1C<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:31:06 2018<br />
+GPS: 33.553535,-82.120514]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124268,33.549213</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 92:68:C3:77:10:7B<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:38 2018<br />
+GPS: 33.549213,-82.124268]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125801,33.546036</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: DA:A1:19:F1:DA:8E<br />
+Manuf: Google<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:34:09 2018<br />
+GPS: 33.546036,-82.125801]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122856,33.548958</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: EC:F0:0E:3A:01:43<br />
+Manuf: Abocom<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:26:23 2018<br />
+GPS: 33.548958,-82.122856]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.120064,33.551991</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 34:F3:9A:15:67:24<br />
+Manuf: IntelCor<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:32:23 2018<br />
+GPS: 33.551991,-82.120064]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.123238,33.550522</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: E6:DF:1C:2A:94:F9<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:25 2018<br />
+GPS: 33.550522,-82.123238]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12352,33.550075</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 66:94:D3:14:D1:C2<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:28:39 2018<br />
+GPS: 33.550075,-82.12352]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.12455,33.540455</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: B4:F7:A1:7C:8B:53<br />
+Manuf: LgElectr<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:42 2018<br />
+GPS: 33.540455,-82.12455]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124797,33.540787</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 92:2A:A8:C8:4F:67<br />
+Manuf: Unknown<br />
+Type: data<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:47 2018<br />
+GPS: 33.540787,-82.124797]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: D6:D0:7E:C9:58:56<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:22 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.125015,33.540871</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 3C:A9:F4:6C:62:EC<br />
+Manuf: IntelCor<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:24 2018<br />
+GPS: 33.540871,-82.125015]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.122162,33.55191</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 18:21:95:32:36:17<br />
+Manuf: SamsungE<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:33:11 2018<br />
+GPS: 33.55191,-82.122162]]></description></Placemark>
+
+<Placemark><styleUrl>#Other</styleUrl><name></name>
+<Point><coordinates>-82.124992,33.541223</coordinates></Point>
+<description><![CDATA[
+SSID: <br />
+MAC: 0E:8D:FB:68:BD:CA<br />
+Manuf: Unknown<br />
+Type: probe<br />
+Channel: 0<br />
+Encryption: <FONT color=grey></FONT><br />
+Last time: Wed Mar 14 08:35:07 2018<br />
+GPS: 33.541223,-82.124992]]></description></Placemark>
+
+</Folder>
+<Folder><name>Routes</name><Placemark><Style><LineStyle><color>7f00ff00</color><width>3</width></LineStyle></Style><LineString><coordinates>
+-82.122856,33.548958 
+-82.122849,33.548954 
+-82.122612,33.548569 
+-82.122583,33.548439 
+-82.122704,33.547218 
+-82.122726,33.548185 
+-82.122581,33.54747 
+-82.12258,33.548445 
+-82.122616,33.547598 
+-82.122591,33.548521 
+-82.122625,33.547526 
+-82.122719,33.548738 
+-82.12273,33.54875 
+-82.12272,33.548396 
+-82.122806,33.548953 
+-82.122757,33.548996 
+-82.122739,33.548835 
+-82.122773,33.548923 
+-82.122815,33.548941 
+-82.123405,33.549618 
+-82.123107,33.549318 
+-82.123634,33.54977 
+-82.12352,33.550075 
+-82.12294,33.550129 
+-82.122658,33.550362 
+-82.122528,33.550503 
+-82.122437,33.550598 
+-82.122337,33.550674 
+-82.122307,33.550812 
+-82.122398,33.550766 
+-82.122421,33.550735 
+-82.122505,33.550613 
+-82.12252,33.550578 
+-82.122665,33.550418 
+-82.122826,33.550209 
+-82.122849,33.55019 
+-82.122902,33.550175 
+-82.123009,33.550134 
+-82.123068,33.549838 
+-82.123211,33.550228 
+-82.123415,33.549885 
+-82.121803,33.552246 
+-82.121132,33.553005 
+-82.120628,33.553314 
+-82.121033,33.552542 
+-82.120514,33.553535 
+-82.120473,33.553552 
+-82.120468,33.553552 
+-82.120972,33.553013 
+-82.121109,33.553066 
+-82.121033,33.553131 
+-82.120485,33.55354 
+-82.120744,33.553275 
+-82.120224,33.55209 
+-82.120228,33.552826 
+-82.120313,33.552129 
+-82.120026,33.551937 
+-82.120064,33.551991 
+-82.120084,33.552006 
+-82.120158,33.552041 
+-82.120258,33.55213 
+-82.120422,33.552241 
+-82.120529,33.552299 
+-82.120529,33.552299 
+-82.120467,33.552241 
+-82.120994,33.552521 
+-82.120719,33.553283 
+-82.120827,33.553215 
+-82.120338,33.552125 
+-82.121437,33.552689 
+-82.121727,33.552467 
+-82.120779,33.55232 
+-82.120845,33.55262 
+-82.121254,33.552673 
+-82.120905,33.552426 
+-82.120909,33.552257 
+-82.121961,33.552164 
+-82.122803,33.551086 
+-82.122879,33.550983 
+-82.120988,33.552885 
+-82.123016,33.550804 
+-82.123019,33.55023 
+-82.123238,33.550522 
+-82.123375,33.550335 
+-82.122814,33.550536 
+-82.123408,33.550038 
+-82.12397,33.549587 
+-82.124268,33.549213 
+-82.124344,33.549114 
+-82.125145,33.548061 
+-82.12532,33.54776 
+-82.125043,33.548153 
+-82.125679,33.546287 
+-82.125702,33.546192 
+-82.125705,33.546314 
+-82.125801,33.546036 
+-82.125704,33.546278 
+-82.125853,33.546001 
+-82.125801,33.545418 
+-82.125679,33.545246 
+-82.125626,33.545143 
+-82.125534,33.544933 
+-82.125503,33.544815 
+-82.125328,33.543819 
+-82.125305,33.543697 
+-82.125553,33.544924 
+-82.125236,33.543308 
+-82.125198,33.543045 
+-82.125175,33.542923 
+-82.125559,33.545302 
+-82.125405,33.544048 
+-82.125433,33.544192 
+-82.125145,33.542734 
+-82.125329,33.544328 
+-82.125532,33.544564 
+-82.125463,33.544337 
+-82.124954,33.541462 
+-82.124946,33.541256 
+-82.124962,33.541372 
+-82.12496,33.54135 
+-82.125015,33.540871 
+-82.124992,33.541223 
+-82.125005,33.540969 
+-82.125015,33.540871 
+-82.125,33.541106 
+-82.125015,33.540871 
+-82.125015,33.540871 
+-82.125015,33.540871 
+-82.125015,33.540871 
+-82.125015,33.540871 
+-82.124994,33.54116 
+-82.125015,33.540871 
+-82.124996,33.541038 
+-82.125009,33.540963 
+-82.125012,33.541013 
+-82.125061,33.540714 
+-82.125053,33.540661 
+-82.125,33.540811 
+-82.124989,33.540738 
+-82.125394,33.54343 
+-82.124962,33.540795 
+-82.124825,33.540662 
+-82.12455,33.540455 
+-82.12497,33.540995 
+-82.124938,33.540735 
+-82.124923,33.540883 
+-82.124942,33.540865 
+-82.124797,33.540787 
+</coordinates></LineString><name>Route 1 (end Wed Mar 14 12:35:47 2018)</name></Placemark>
+</Folder>
+</Document>
+</kml>
