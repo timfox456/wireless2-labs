@@ -67,5 +67,6 @@ Please follow this guide for lab setup:
 ## References
 
  * [Pentest Setup](./pentest-setup.md)
+ * [Networking Notes](./networking-notes.md)
  * [NIST SP 800-97](docs/NIST SP 800-97 Building RSN.pdf)
 
