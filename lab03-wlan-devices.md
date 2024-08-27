@@ -11,6 +11,26 @@
 We will be using the USB wireless cards. It is important to know the details of the model of the wireless card you will be using for pentesting and network evaluations.
 
 
+## Step 0: Ensure your Virtualbox is configured properly for the wireless card.
+
+If you are using the UMBC lab machines, then you will be working with VirtualBox. The host
+in question has a few hardware devices that need to be manually attached to the VM guest. To
+do this, go to the Virtualbox Devices menu, go to USB, and select the following:
+
+  * Lenovo Traditional USB Keyboard
+  * Ralink 802.11 n WLAN
+
+The other devices can remain deselected. Here is a screenshot that shows what we are talking about.
+
+![](img/l03-01-virtualbox.png)
+
+
+If you are NOT using the UMBC Virtualbox, then you need to ensure that a wireless device similar
+to the Ralink 802.11n WLAN adapter is avaailable to you as you are working. If you are running 
+under a VM, then such a device should be connected to the host and attached in a similar way
+via VirtualBox (or whatever virtual machine software you are using.)
+
+
 ## Step 1: FInd model number and MAC Address
 
 Note the model number and MAC address of the wireless card if you can find it: 

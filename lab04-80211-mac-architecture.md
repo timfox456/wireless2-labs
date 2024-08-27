@@ -2,7 +2,7 @@
 
 ## Review Questions
 
-[Review Questions](review04-80211-mac-architecture)
+[Review Questions](review04-80211-mac-architecture.md)
 
 
 ## Lab
