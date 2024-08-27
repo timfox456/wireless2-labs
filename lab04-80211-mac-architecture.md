@@ -18,6 +18,8 @@ Use some of the Wireshark filters from the slides and from the back of this
 handout as you go through the capture file. Try and combine some with Boolean
 logic (AND, OR, NOT). 
 
+[Wireshark Filters Cheat Sheat](wireshark-filters.md)
+
 
 ## Step 1: Answer the Following Questions
 
@@ -78,6 +80,8 @@ Examine frame #577. Apply a new display filter to sort for this specific Apple d
 
 15. Try to follow the sequence of events with the Apple device after frame #577. Why did we not see the authentication request prior to #577. Does the Apple client and this new access point exchange any data frames beyond any management frames?
 
+## Step 5: Answer the following from frame #6610
+
 16. Jump to frame #6610. Another unique management frame. What just happened? Did anything precede the disassociation between these two radios?
 
 17. What side of the communication initiated the disassociation in frame #6610 and why?
@@ -87,7 +91,7 @@ Examine frame #577. Apply a new display filter to sort for this specific Apple d
 19. Sort through the entire wireless capture file for all Requests-to-Send and Clear-to-Send control frames. How many in total are there in the entire capture? You can apply one filter note the count then apply another filter and count those, then add them together.
 
 
-## Step 4: Answer the following from frame 556 and 557
+## Step 6: Answer the following from frame #556 and #557
 
 For the next portion, look at frames #556 and #557.
 
