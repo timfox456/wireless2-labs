@@ -47,13 +47,13 @@ going to contain all the letter, number, and special character combinations.
 In the capture file, `carWifi.cap`, exists a four-way handshake. `aircrack-ng`
 is installed on your Linux workstation. Also bundled with this Linux are
 wordlists that serve as dictionaries. There is one called `mod_rockyou.txt`
-that is zipped up in a directory. You will have to unzip it using `7z` to use
+that is zipped up in a directory. You will have to unzip it using `gunzip` to use
 it. Note that `mod_rockyou.txt` is *not* part of this github repo due to its
 large size, however, it should be on the UMBC lab machines already.
 
 ```bash
 cd ~/Captures          # Do this on the lab machine
-7z x mod_rockyou.txt
+gunzip x mod_rockyou.txt.gz
 ```
 
 ## Step 1: Use the `carWifi.cap` file to answer the following questions. 
