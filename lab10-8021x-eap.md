@@ -2,7 +2,7 @@
 
 ## Review Questions
 
-[Review Questions](./review10-8021x-ea.md)
+[Review Questions](review10-8021x-eap.md)
 
 
 ## Lab
