@@ -8,13 +8,29 @@
 ## Lab
 
 This next exercise is an extension of the previous lab. You will use the
-`belkin_4way.cap` file. Your target network is tied to a Belkin access point.
-Your goal is to gain access to the wireless network. You have a capture file
-that will assist you in your operation. If you recover the passphrase, join the
-network and think about what you might do once you are a host (client) in the
-wireless network. You must focus on some objective defined before you even get
-here. Research and tradecraft are just as important as your technique. You may
-not have to crack the WPA passphrase.
+`belkin_4way.cap` file. 
+
+Your target network is tied to a Belkin access point. Your goal is to gain
+access to the wireless network. You have a capture file that will assist you in
+your operation. 
+
+As noted below, aircrack may not be necessary here, but ertainly we can use the
+same approach as in lab 8, e.g. `aircrack-ng`
+
+```console
+aircrack-ng belkin_4way.cap -w mod_rockyou.txt
+```
+
+![](img/l09-aircrack-output.png)
+
+
+If you recover the passphrase, join the network and think about what you might
+do once you are a host (client) in the wireless network. You must focus on some
+objective defined before you even get here. Research and tradecraft are just as
+important as your technique. You may not have to crack the WPA passphrase.
+
+
+Please answer the following questions:
 
 1. What is the wireless network name and channel?
 

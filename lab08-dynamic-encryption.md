@@ -84,6 +84,15 @@ Now let’s get cracking... Research and try to crack the passphrase. This will 
 aircrack-ng -w mod_rockyou.txt carWifi.cap  # (You may need to specify paths)
 ```
 
+The reponse should look something like this.
+
+![](img/l08-01-aircrack.png)
+
+Of these, `TC-Visitors` is acceptable. Of course this only will be the case if 
+you are logged via the UMBC VM. If you are working on your own network then
+choose an appopriate choice.
+
+
 5. What dictionary did you use and how did you find it? What is the full path
    to the dictionary?
 
