@@ -21,8 +21,13 @@ Key (PTK) has to be generated. The PTK is used to encrypt the data payload of
 802.11 frames. This data payload, the MSDU, is the layer 3-7 data passed
 between the STA and the AP.
 
-The generation of the per-session PTK requires four more pieces of data: The
-Authenticator Nonce, Supplicant Nonce, Authenticator MAC, and Supplicant MAC.
+The generation of the per-session PTK requires four more pieces of data: 
+
+1. The Authenticator Nonce 
+2. Supplicant Nonce
+3. Authenticator MAC 
+4. Supplicant MAC
+
 The supplicant is synonymous with the client or device. The authenticator is
 the access point. A Nonce is a random number, a number used once.
 
@@ -39,13 +44,23 @@ letter combination of the passphrase is in included in there. With this
 information, we can deduce that these dictionaries may be large files if it is
 going to contain all the letter, number, and special character combinations.
 
-In the capture file, `carWifi.cap`, exists a four-way handshake. `aircrack-ng` is
-installed on your Linux workstation. Also bundled with this Linux are wordlists
-that serve as dictionaries. There is one called mod_rockyou.txt that is zipped
-up in a directory. You will have to unzip it to use it.
+In the capture file, `carWifi.cap`, exists a four-way handshake. `aircrack-ng`
+is installed on your Linux workstation. Also bundled with this Linux are
+wordlists that serve as dictionaries. There is one called `mod_rockyou.txt`
+that is zipped up in a directory. You will have to unzip it using `7z` to use
+it. Note that `mod_rockyou.txt` is *not* part of this github repo due to its
+large size, however, it should be on the UMBC lab machines already.
+
+```bash
+cd ~/Captures          # Do this on the lab machine
+7z x mod_rockyou.txt
+```
 
 ## Step 1: Use the `carWifi.cap` file to answer the following questions. 
 
+Here is a link to the `carWifi.cap` in this git repo:
+
+[carWifi.cap](wireless_survey/carWifi.cap)
 
 Although the end goal for this lab is to recover the wireless passphrase, you
 can learn a lot about the steps that lead up to the four- way by focusing in on

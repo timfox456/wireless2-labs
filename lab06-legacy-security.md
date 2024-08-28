@@ -10,22 +10,29 @@
 For this next go-round, use the capture file `belkin_hidden.cap` to answer some
 questions regarding legacy security speed bumps.
 
+You will be using `wireshark` including wireshark filters.
+
+[Wireshark Filters Cheat Sheat](wireshark-filters.md)
+
+
+## Step 1: Use wireshark on the capture file `belkin_hidden_cap` to answer the following questions?
+
 1. What is the name of the wireless network that is advertised in frame #1?
 
 2. Apply a display filter to only show the wireless frames going to or being
    sent by the client MAC address `44:80:eb:7e:3f:85`. 
 
-How many frames are displayed with your filter? What was the syntax of your filter?
+3. How many frames are displayed with your filter? What was the syntax of your filter?
 
-3. Using the same display filter from the previous question, what station initiates communications where MAC `44:80:eb:7e:3f:85` is an addressee? 
+4. Using the same display filter from the previous question, what station initiates communications where MAC `44:80:eb:7e:3f:85` is an addressee? 
 
-What type of frame and subtype do you see? 
+5. What type of frame and subtype do you see? 
 
-What device would have given up the wireless network name causing the original network name in frame #1 to be revealed?
+6. What device would have given up the wireless network name causing the original network name in frame #1 to be revealed?
 
-4. Examine the packet details section of one of the probe responses tied to the BSSID from frame #1. Anything catch your attention? Do any research as needed.
+7. Examine the packet details section of one of the probe responses tied to the BSSID from frame #1. Anything catch your attention? Do any research as needed.
 
-5. Characterize the sequence of events and frames between the same access point and the client `(44:80:eb:7e:3f:85)` following the last probe response in frame #613. Apply filters to only focus on the two MAC addresses.
+8. Characterize the sequence of events and frames between the same access point and the client `(44:80:eb:7e:3f:85)` following the last probe response in frame #613. Apply filters to only focus on the two MAC addresses.
 
 Patience is important part of a good tradecraft. With the right application of
 tradecraft, you can go relatively unnoticed in the target space. A client will
@@ -42,15 +49,19 @@ target a legitimate client and access point. Proceed with caution. Read the
 entire sequence before starting.
 
 
-## Step 1: Attach Wireless Card
+## Step 2: Attach Wireless Card
 
-Attach a wireless card to the Guest VM operating system. Your choice for a wireless card should include those that support the functions of packet injection and monitor mode. You will use both functions. Verify the card is recognized.
+Attach a wireless card to the Guest VM operating system.  If you are using the UMBC lab machines, then it should look as follows:
+
+![](img/l03-01-virtualbox.png)
+
+If you are using your own VM, your choice for a wireless card should include those that support the functions of packet injection and monitor mode. You will use both functions. Verify the card is recognized.
 
 ```console
 iwconfig       # (See that a device wlan0 appears)
 ```
 
-## Step 2: Set the wireless card into monitor mode. 
+## Step 3: Set the wireless card into monitor mode. 
 
 (The name of the card might vary.)
 
@@ -58,7 +69,7 @@ iwconfig       # (See that a device wlan0 appears)
 airmon-ng start wlan0  # (This creates a new wireless device, wlan0mon)
 ```
 
-## Step 3:  Listen to the Airwaves
+## Step 4:  Listen to the Airwaves
 
 Listen to the airwaves in monitor mode. Select a single client that is already associated to a Target AP (BSSID). Note the MAC address of each. These will be used later with the `aireplay` tool. These next commands are generalized, modify as needed to meet the mission. Do not forget to add the -w option to save the output. Be as specific with the other option as needed.
 
@@ -69,7 +80,7 @@ airodump-ng --channel 1,6,11 wlan0mon  # Only channels 1,6,11
 airodump-ng --bssid <MACofAP> --channel <Channelof AP> wlan0mon
 ```
 
-## Step 4: Use `airreplay-ng` to do deauthentication
+## Step 5: Use `airreplay-ng` to do deauthentication
 
 You need the two MAC addresses from the previous step. `aireplay-ng` supports a
 number of attacks including a deauthentication attack (`--deauth`). Both end
