@@ -53,7 +53,7 @@ large size, however, it should be on the UMBC lab machines already.
 
 ```bash
 cd ~/Captures          # Do this on the lab machine
-gunzip x mod_rockyou.txt.gz
+gunzip mod_rockyou.txt.gz
 ```
 
 ## Step 1: Use the `carWifi.cap` file to answer the following questions. 
