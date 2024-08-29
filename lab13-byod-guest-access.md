@@ -7,3 +7,7 @@
 
 [Review Questions](./review13-byod-guest-access.md
 
+
+## Lab
+
+There is no lab for htis section
