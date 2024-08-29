@@ -78,7 +78,10 @@ begins with the Discovery phase.
 
 ## Step 2: Crack the Passphrase
 
-Now let’s get cracking... Research and try to crack the passphrase. This will take some time to finish. Once started, move along and try to answer some of the other questions here. Just check back to see the progress. Generally, you can use the command here with modifications to suit your need for this lab:
+Now let’s get cracking... Research and try to crack the passphrase. This will
+take some time to finish. Once started, move along and try to answer some of
+the other questions here. Just check back to see the progress. Generally, you
+can use the command here with modifications to suit your need for this lab:
 
 ```console
 aircrack-ng -w mod_rockyou.txt carWifi.cap  # (You may need to specify paths)
@@ -88,9 +91,10 @@ The reponse should look something like this.
 
 ![](img/l08-01-aircrack.png)
 
-Of these, `TC-Visitors` is acceptable. Of course this only will be the case if 
-you are logged via the UMBC VM. If you are working on your own network then
-choose an appopriate choice.
+Of these, the only one that has a captured handshake is `Wifi Hotspot 6802`
+(number 17 in the above screenshot). Of course this only will be the case if
+you are logged via the UMBC VM, and even then it will likely vary. If you are
+working on your own network then choose an appopriate choice.
 
 
 5. What dictionary did you use and how did you find it? What is the full path
