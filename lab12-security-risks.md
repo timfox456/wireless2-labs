@@ -311,7 +311,10 @@ interface, eth0. They also bridge wlan0 and eth0 together and enable routing
 between both networks. It needs to be understood that these commands and action
 will not persist across reboots.
 
-# iptables --table nat --append POSTROUTING --out-interface eth0 -j MASQUERADE # iptables --append FORWARD --in-interface wlan0 -j ACCEPT
-# echo 1 > /proc/sys/net/ipv4/ip_forward
+```console
+iptables --table nat --append POSTROUTING --out-interface eth0 -j MASQUERADE 
+iptables --append FORWARD --in-interface wlan0 -j ACCEPT
+echo 1 > /proc/sys/net/ipv4/ip_forward
+```
 
 
