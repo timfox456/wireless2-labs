@@ -77,7 +77,7 @@ Listen to the airwaves in monitor mode. Select a single client that is already a
 airodump-ng wlan0mon                   # By default this will isten on ch 1-14
 airodump-ng --band a wlan0mon          # Will listen in 5GHz band
 airodump-ng --channel 1,6,11 wlan0mon  # Only channels 1,6,11
-airodump-ng --bssid <MACofAP> --channel <Channelof AP> wlan0mon
+airodump-ng -w my_capture --bssid <MACofAP> --channel <Channelof AP> wlan0mon
 ```
 
 ## Step 5: Use `airreplay-ng` to do deauthentication
